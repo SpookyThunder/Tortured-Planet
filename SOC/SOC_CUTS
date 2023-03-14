@@ -1,0 +1,342 @@
+
+#Now, the intro cutscene!
+
+Cutscene 1
+NumScenes 6
+Scene 1
+NumberOfPics = 1
+Pic1Name = SGRASS5
+Pic1Duration = 512
+Pic1XCoord = 0
+Pic1YCoord = 32
+TextXPos = 0
+TextYPos = 128
+Music = 0
+SceneText = 
+      #
+Scene 2
+NumberOfPics = 1
+Pic1Name = INTRO3
+Pic1Duration = 512
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 144
+Music = AHZ
+SceneText = After Dr. Eggman's crushing defeat at
+Egg Rock Core, he fled to a distant planet
+with his few robot minions which hadn't
+been dismantled by Sonic and company.
+      #
+Scene 3
+NumberOfPics = 1
+Pic1Name = INTRO2
+Pic1Duration = 477
+Pic1XCoord = 0
+Pic1YCoord = 64
+TextXPos = 0
+TextYPos = 64
+Pic1Hires = 1
+SceneText = Now, our heroes have decided to
+take a well-deserved vacation in beautiful
+Sunshine Atoll Zone...
+      #
+Scene 4
+NumberOfPics = 1
+Pic1Name = INTRO7
+Pic1Duration = 768
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 128
+Pic1Hires = 1
+SceneText = But on the third day of the
+vacation, Tails stumbles across a
+Jetty-Syn. 'Don't worry, little buddy,'
+Sonic assures him. 'This doesn't mean
+Robuttnik is back already. It's probably
+just left over from his last scheme...'
+      #
+Scene 5
+NumberOfPics = 1
+Pic1Name = INTRO1
+Pic1Duration = 960
+Pic1XCoord = 32
+Pic1YCoord = 32
+TextXPos = 0
+TextYPos = 96
+Music = 1035
+SceneText = How very wrong Sonic was. Dr. Eggman
+is indeed back...the alien planet to
+which he had escaped had a vast array of
+resources and a race of advanced aliens
+who proved tragically easy to enslave. The
+next day, Sonic and his friends wake up to
+find Sunshine Atoll Zone swarming with a
+new army of Crawlas!
+      #
+Scene 6
+NumberOfPics = 1
+Pic1Name = REVENGE
+Pic1Duration = 512
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 128
+Pic1Hires = 1
+SceneText = Sonic knows instinctively that this
+time, something is very wrong. It isn't
+merely Mobius at stake now...Dr. Eggman
+must be stopped for the sake of the poor
+alien race, and their tortured planet!
+      #
+      
+#Lastly, the between-level cutscenes!
+
+Cutscene 2
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+Pic1Name = SAPIC
+Pic1Duration = 1280
+Pic1XCoord = 32
+Pic1YCoord = 4
+TextXPos = 4
+TextYPos = 4
+Music = TPCUTS
+SceneText = The vacation is over! Sonic and his friends
+are going to have to search Sunshine Atoll
+Zone from top to bottom in search of
+Eggman, all the while dismantling his army
+of Crawlas. There aren't a lot of natural
+hazards in this tropical paradise, but it's
+easy to get lost once you stray from the
+tourist paths. Eggman is waiting somewhere
+in the jungle...
+      #
+
+Cutscene 3
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+Pic1Name = ECPIC
+Pic1Duration = 1280
+Pic1XCoord = 32
+Pic1YCoord = 4
+TextXPos = 4
+TextYPos = 4
+Music = TPCUTS
+SceneText = Upon arriving on the mainland, Sonic finds
+more trouble brewing! It seems that Eggman
+is harnessing the energy of a magma hot
+spot to power his factory. But this has
+awakened a naturally dormant volcano which
+is now spewing lava over a once-beautiful
+plain! Sonic will have to shut down the
+factory to save as much of the countryside
+as he can.
+      #
+
+Cutscene 4
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+Pic1Name = DDPIC
+Pic1Duration = 1280
+Pic1XCoord = 32
+Pic1YCoord = 4
+TextXPos = 4
+TextYPos = 4
+Music = TPCUTS
+SceneText = Sonic, Tails, and Knuckles have now zeroed
+in on the ruins of Eggman's former center of
+operations, Dark City Zone. But Eggman is
+not pleased that he's been followed this
+far...by activating his orbiting climate
+machines, he has flooded the abandoned
+streets and buildings, to slow down our
+heroes as he attempts to escape and
+formulate his plans elsewhere! Naturally,
+with a few skillful tricks up their
+sleeves, Sonic and his pals won't miss a
+beat in this drenched ghost town!
+      #
+
+Cutscene 5
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+Pic1Name = SNPIC
+Pic1Duration = 1280
+Pic1XCoord = 32
+Pic1YCoord = 4
+TextXPos = 4
+TextYPos = 4
+Music = TPCUTS
+SceneText = Having failed to shake off Sonic in the
+shattered remains of his city, Eggman
+traveled to the one place he thought Sonic
+could never reach: the sky. But by hiking
+up a range of mountains, Sonic is able to
+pursue his nemesis high up in the air!
+You've come so far...don't let Eggman get
+away now!
+      #
+
+Cutscene 6
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+Pic1Name = GCPIC
+Pic1Duration = 1280
+Pic1XCoord = 32
+Pic1YCoord = 4
+TextXPos = 4
+TextYPos = 4
+Music = TPCUTS
+SceneText = Eggman has now retreated to a sandy temple
+ruin in the middle of the desert. To get to
+him, Sonic will not only have to contend
+with Eggman's robots, but also the ancient
+booby traps set up by the civilization that
+once existed here. But hey, it's all in a
+day's work, right?
+      #
+
+Cutscene 7
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+Pic1Name = FSPIC
+Pic1Duration = 1280
+Pic1XCoord = 32
+Pic1YCoord = 4
+TextXPos = 4
+TextYPos = 4
+Music = TPCUTS
+SceneText = Unfortunately, Eggman managed to escape to
+a secret base in an old, abandonded mine...
+or so he thinks. In fact, Sonic and company
+followed him there...but they can't make
+heads or tails of what Eggman is planning.
+All they know is that whatever it is, it's
+generating a lot of toxic slime and deadly
+acid!
+      #
+
+Cutscene 8
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+Pic1Name = LGPIC
+Pic1Duration = 1280
+Pic1XCoord = 32
+Pic1YCoord = 4
+TextXPos = 4
+TextYPos = 4
+Music = TPCUTS
+SceneText = Sonic has now managed to sneak into
+Eggman's rocket launching base. He seems
+to be shipping some supplies to the planet
+he took over. See if you can stow away on
+Eggman's rocket undetected!
+      #
+
+Cutscene 9
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+Pic1Name = SPIC
+Pic1Duration = 1280
+Pic1XCoord = 32
+Pic1YCoord = 4
+TextXPos = 4
+TextYPos = 4
+Music = TPCUTS
+SceneText = Oh no! Eggman has decided that he cares
+more about killing Sonic than delivering
+the shipment, and bailed from the rocket
+in an escape pod, leaving Sonic and his
+friends stranded in space! But Tails has
+calculated that Eggman can't get all the
+way to his planet on that pod, and he must
+therefore be flying to a second spaceship.
+Sonic and his buddies will have to find
+Eggman's other ship before it departs, or
+they'll be stuck in deep space forever!
+      #
+
+Cutscene 10
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+Pic1Name = AAPIC
+Pic1Duration = 1280
+Pic1XCoord = 32
+Pic1YCoord = 4
+TextXPos = 4
+TextYPos = 4
+Music = TPCUTS
+SceneText = Look at what Eggman has done to this once-
+beautiful planet! Acid and fire and
+scorched craters and sinister castles as
+far as the eye can see! To add insult to
+injury, the evil doctor has repurposed the
+aliens' flying saucers as his war
+machines! The aliens are counting on Sonic
+to find and infiltrate Eggman's dark
+fortress, stop his schemes, and save the
+day. Is he up to the task? ...Sorry,
+stupid question.
+      #
+
+Cutscene 11
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+TextXPos = 4
+TextYPos = 4
+Music = TPCUTS
+SceneText = Sonic may have driven Eggman out of his
+castle, but he's not done yet! Rather than
+allow Sonic to liberate his alien slaves,
+Eggman has flown to a nearby star and is
+using its energy to power a Death Ray to
+destroy the planet!
+
+It all comes down to this. The final
+showdown. Defeat Eggman now, and his plans
+will be ruined! It's time to free the
+Tortured Planet, save Mobius, and send
+Eggman packing!
+      #
+
+Cutscene 12
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+TextXPos = 4
+TextYPos = 4
+Music = AHZ
+SceneText = Tortured Planet has come a long way from
+its humble beginnings. In its earliest
+stages, the level pack was detested for a
+variety of reasons. You are about to get a
+glimpse of what Tortured Planet was like at
+its inception. Much of it will look
+familiar, but in a crude skeleton form.
+      #
+
+Cutscene 13
+NumScenes 1
+Scene 1
+NumberOfPics = 1
+TextXPos = 4
+TextYPos = 4
+Music = AHZ
+SceneText = Congratulations! You found the Super
+Bonus! And now, for your amusement, we
+present a scrapped version of Rocket
+Rampage Zone--quite possibly the worst
+stage ever made for Tortured Planet.
+      #
