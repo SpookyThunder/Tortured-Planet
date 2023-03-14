@@ -254,6 +254,7 @@ MapNum = 137
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 9
 Type = Skin
