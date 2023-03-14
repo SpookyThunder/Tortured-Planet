@@ -8,12 +8,12 @@ NumberOfPics = 1
 Pic1Name = SGRASS5
 Pic1Duration = 512
 Pic1XCoord = 0
-Pic1YCoord = 32
+Pic1YCoord = 36
 TextXPos = 0
 TextYPos = 128
 Music = 0
 SceneText = 
-      #
+#
 Scene 2
 NumberOfPics = 1
 Pic1Name = INTRO3
@@ -27,7 +27,7 @@ SceneText = After Dr. Eggman's crushing defeat at
 Egg Rock Core, he fled to a distant planet
 with his few robot minions which hadn't
 been dismantled by Sonic and company.
-      #
+#
 Scene 3
 NumberOfPics = 1
 Pic1Name = INTRO2
@@ -35,12 +35,12 @@ Pic1Duration = 477
 Pic1XCoord = 0
 Pic1YCoord = 64
 TextXPos = 0
-TextYPos = 64
+TextYPos = 32
 Pic1Hires = 1
 SceneText = Now, our heroes have decided to
 take a well-deserved vacation in beautiful
 Sunshine Atoll Zone...
-      #
+#
 Scene 4
 NumberOfPics = 1
 Pic1Name = INTRO7
@@ -56,16 +56,16 @@ Jetty-Syn. 'Don't worry, little buddy,'
 Sonic assures him. 'This doesn't mean
 Robuttnik is back already. It's probably
 just left over from his last scheme...'
-      #
+#
 Scene 5
 NumberOfPics = 1
 Pic1Name = INTRO1
 Pic1Duration = 960
-Pic1XCoord = 32
-Pic1YCoord = 32
+Pic1XCoord = 0
+Pic1YCoord = 0
 TextXPos = 0
 TextYPos = 96
-Music = 1035
+Music = _TITLE
 SceneText = How very wrong Sonic was. Dr. Eggman
 is indeed back...the alien planet to
 which he had escaped had a vast array of
@@ -74,11 +74,11 @@ who proved tragically easy to enslave. The
 next day, Sonic and his friends wake up to
 find Sunshine Atoll Zone swarming with a
 new army of Crawlas!
-      #
+#
 Scene 6
 NumberOfPics = 1
 Pic1Name = REVENGE
-Pic1Duration = 512
+Pic1Duration = 687
 Pic1XCoord = 0
 Pic1YCoord = 0
 TextXPos = 0
@@ -89,9 +89,7 @@ time, something is very wrong. It isn't
 merely Mobius at stake now...Dr. Eggman
 must be stopped for the sake of the poor
 alien race, and their tortured planet!
-      #
-      
-#Lastly, the between-level cutscenes!
+#
 
 Cutscene 2
 NumScenes 1
@@ -113,7 +111,7 @@ hazards in this tropical paradise, but it's
 easy to get lost once you stray from the
 tourist paths. Eggman is waiting somewhere
 in the jungle...
-      #
+#
 
 Cutscene 3
 NumScenes 1
@@ -135,7 +133,7 @@ is now spewing lava over a once-beautiful
 plain! Sonic will have to shut down the
 factory to save as much of the countryside
 as he can.
-      #
+#
 
 Cutscene 4
 NumScenes 1
@@ -160,7 +158,7 @@ formulate his plans elsewhere! Naturally,
 with a few skillful tricks up their
 sleeves, Sonic and his pals won't miss a
 beat in this drenched ghost town!
-      #
+#
 
 Cutscene 5
 NumScenes 1
@@ -181,7 +179,7 @@ up a range of mountains, Sonic is able to
 pursue his nemesis high up in the air!
 You've come so far...don't let Eggman get
 away now!
-      #
+#
 
 Cutscene 6
 NumScenes 1
@@ -201,7 +199,7 @@ with Eggman's robots, but also the ancient
 booby traps set up by the civilization that
 once existed here. But hey, it's all in a
 day's work, right?
-      #
+#
 
 Cutscene 7
 NumScenes 1
@@ -222,7 +220,7 @@ heads or tails of what Eggman is planning.
 All they know is that whatever it is, it's
 generating a lot of toxic slime and deadly
 acid!
-      #
+#
 
 Cutscene 8
 NumScenes 1
@@ -240,7 +238,7 @@ Eggman's rocket launching base. He seems
 to be shipping some supplies to the planet
 he took over. See if you can stow away on
 Eggman's rocket undetected!
-      #
+#
 
 Cutscene 9
 NumScenes 1
@@ -264,7 +262,7 @@ therefore be flying to a second spaceship.
 Sonic and his buddies will have to find
 Eggman's other ship before it departs, or
 they'll be stuck in deep space forever!
-      #
+#
 
 Cutscene 10
 NumScenes 1
@@ -288,7 +286,7 @@ to find and infiltrate Eggman's dark
 fortress, stop his schemes, and save the
 day. Is he up to the task? ...Sorry,
 stupid question.
-      #
+#
 
 Cutscene 11
 NumScenes 1
@@ -309,7 +307,7 @@ showdown. Defeat Eggman now, and his plans
 will be ruined! It's time to free the
 Tortured Planet, save Mobius, and send
 Eggman packing!
-      #
+#
 
 Cutscene 12
 NumScenes 1
@@ -325,7 +323,7 @@ variety of reasons. You are about to get a
 glimpse of what Tortured Planet was like at
 its inception. Much of it will look
 familiar, but in a crude skeleton form.
-      #
+#
 
 Cutscene 13
 NumScenes 1
@@ -339,4 +337,4 @@ Bonus! And now, for your amusement, we
 present a scrapped version of Rocket
 Rampage Zone--quite possibly the worst
 stage ever made for Tortured Planet.
-      #
+#
