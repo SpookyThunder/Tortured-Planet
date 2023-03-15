@@ -247,9 +247,6 @@ Var = 40*TICRATE
 Emblem 8
 Type = Skin
 Hint = A leap of faith above an underwater chasm...
-X = -1402
-Y = -6871
-Z = 1612
 MapNum = 137
 Sprite = U
 Color = SKINCOLOR_BLUE
@@ -259,34 +256,28 @@ Tag = 1
 Emblem 9
 Type = Skin
 Hint = Take to the open air to find this one!
-X = 9408
-Y = -2848
-Z = 3040
 MapNum = 137
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 10
 Type = Skin
 Hint = You'll have to find another way to climb up there...
-X = -2432
-Y = -3872
-Z = 2804
 MapNum = 137
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 11
 Type = Global
 Hint = ???
-X = 1792
-Y = -8992
-Z = 1612
 MapNum = 137
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 12
 Type = Rings
@@ -323,45 +314,37 @@ Var = 30*TICRATE
 Emblem 16
 Type = Skin
 Hint = Maybe there's a way to make those fans blow harder?
-X = 12352
-Y = 5184
-Z = 2080
 MapNum = 139
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 17
 Type = Skin
 Hint = The cliffs outside the factory hold a secret...
-X = 5056
-Y = 0
-Z = 3120
 MapNum = 139
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 18
 Type = Skin
 Hint = Your prize awaits you deep within the pipes!
-X = 10080
-Y = -672
-Z = 1696
 MapNum = 139
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 19
 Type = Global
 Hint = ???
-X = -3808
-Y = -1984
-Z = 2592
 MapNum = 139
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 20
 Type = Rings
@@ -389,45 +372,37 @@ Var = 80*TICRATE
 Emblem 23
 Type = Skin
 Hint = Does that protruding pipe lead anywhere?
-X = -5120
-Y = -3456
-Z = 2004
 MapNum = 140
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 24
 Type = Skin
 Hint = Fly off the bridges and explore the cavern walls!
-X = 4896
-Y = -1984
-Z = 2528
 MapNum = 140
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 25
 Type = Skin
 Hint = There might be a prize for you at the bottom of the tank...
-X = -11968
-Y = 4128
-Z = 1632
 MapNum = 140
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 26
 Type = Global
 Hint = ???
-X = 4128
-Y = 7392
-Z = 1128
 MapNum = 140
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 27
 Type = Rings
