@@ -439,45 +439,37 @@ Var = 30*TICRATE
 Emblem 31
 Type = Skin
 Hint = There's a lot to explore down on the lake below!
-X = 448
-Y = -2976
-Z = 2416
 MapNum = 142
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 32
 Type = Skin
 Hint = A treat awaits you in the chimney, and it ain't milk and cookies...
-X = 2432
-Y = 1824
-Z = 3104
 MapNum = 142
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 33
 Type = Skin
 Hint = Sometimes even secret tunnels have secrets of their own...
-X = -2240
-Y = 4864
-Z = 1376
 MapNum = 142
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 34
 Type = Global
 Hint = ???
-X = 11936
-Y = -32
-Z = 1312
 MapNum = 142
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 35
 Type = Rings
@@ -505,45 +497,37 @@ Var = 120*TICRATE
 Emblem 38
 Type = Skin
 Hint = Even when you reach your stop, you should go on a little further...
-X = -15392
-Y = 5760
-Z = 416
 MapNum = 143
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 39
 Type = Skin
 Hint = This one's so easy it doesn't merit a hint!
-X = 12584
-Y = 4163
-Z = 1632
 MapNum = 143
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 40
 Type = Skin
 Hint = There's a little cistern in the sewers you should check out...
-X = 14304
-Y = 10368
-Z = 1312
 MapNum = 143
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 41
 Type = Global
 Hint = ???
-X = 12768
-Y = -11552
-Z = 1568
 MapNum = 143
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 42
 Type = Rings
@@ -580,45 +564,37 @@ Var = 25*TICRATE
 Emblem 46
 Type = Skin
 Hint = Explore the purple caverns with extra scrutiny...
-X = -9120
-Y = -6048
-Z = 2216
 MapNum = 145
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 47
 Type = Skin
 Hint = Fly as high as you can up the side of the mountains!
-X = -12096
-Y = -3680
-Z = 3616
 MapNum = 145
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 48
 Type = Skin
 Hint = It'll take a skilled mountaineer to navigate this maze...
-X = 1152
-Y = -7456
-Z = 3308
 MapNum = 145
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 49
 Type = Global
 Hint = ???
-X = 6848
-Y = -2016
-Z = 1312
 MapNum = 145
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 50
 Type = Rings
@@ -646,45 +622,37 @@ Var = 120*TICRATE
 Emblem 53
 Type = Skin
 Hint = Look VERY closely along the edges of the cliffs near the start...
-X = 416
-Y = -12064
-Z = 3360
 MapNum = 146
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 54
 Type = Skin
 Hint = Your task is very similar to the one from the last act, but harder!
-X = -6304
-Y = -4480
-Z = 3104
 MapNum = 146
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 55
 Type = Skin
 Hint = Maybe for once, this is an oil spill we can all love!
-X = 5152
-Y = -2912
-Z = 2488
 MapNum = 146
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 56
 Type = Global
 Hint = ???
-X = 5600
-Y = 9952
-Z = 3136
 MapNum = 146
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 57
 Type = Rings
