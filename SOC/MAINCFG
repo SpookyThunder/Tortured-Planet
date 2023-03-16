@@ -187,30 +187,27 @@ Condition1 = GameClear 3
 #Sunshine Atoll Zone Act 1
 
 Emblem 1
-Type = Skin
+Type = Global
 Hint = Hope you don't mind getting wet!
 MapNum = 136
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 2
-Type = Skin
+Type = Global
 Hint = It can be hard to see those tiny ledges...
 MapNum = 136
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 3
-Type = Skin
+Type = Global
 Hint = The trees conceal more than you realize...
 MapNum = 136
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 4
@@ -245,30 +242,27 @@ Var = 40*TICRATE
 #Sunshine Atoll Zone Act 2
 
 Emblem 8
-Type = Skin
+Type = Global
 Hint = A leap of faith above an underwater chasm...
 MapNum = 137
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 9
-Type = Skin
+Type = Global
 Hint = Take to the open air to find this one!
 MapNum = 137
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 10
-Type = Skin
+Type = Global
 Hint = You'll have to find another way to climb up there...
 MapNum = 137
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 11
@@ -312,30 +306,27 @@ Var = 30*TICRATE
 #Eruption Conduit Zone Act 1
 
 Emblem 16
-Type = Skin
+Type = Global
 Hint = Maybe there's a way to make those fans blow harder?
 MapNum = 139
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 17
-Type = Skin
+Type = Global
 Hint = The cliffs outside the factory hold a secret...
 MapNum = 139
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 18
-Type = Skin
+Type = Global
 Hint = Your prize awaits you deep within the pipes!
 MapNum = 139
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 19
@@ -370,30 +361,27 @@ Var = 80*TICRATE
 #Eruption Conduit Zone Act 2
 
 Emblem 23
-Type = Skin
+Type = Global
 Hint = Does that protruding pipe lead anywhere?
 MapNum = 140
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 24
-Type = Skin
+Type = Global
 Hint = Fly off the bridges and explore the cavern walls!
 MapNum = 140
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 25
-Type = Skin
+Type = Global
 Hint = There might be a prize for you at the bottom of the tank...
 MapNum = 140
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 26
@@ -437,30 +425,27 @@ Var = 30*TICRATE
 #Drowned Downtown Zone Act 1
 
 Emblem 31
-Type = Skin
+Type = Global
 Hint = There's a lot to explore down on the lake below!
 MapNum = 142
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 32
-Type = Skin
+Type = Global
 Hint = A treat awaits you in the chimney, and it ain't milk and cookies...
 MapNum = 142
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 33
-Type = Skin
+Type = Global
 Hint = Sometimes even secret tunnels have secrets of their own...
 MapNum = 142
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 34
@@ -495,30 +480,27 @@ Var = 120*TICRATE
 #Drowned Downtown Zone Act 2
 
 Emblem 38
-Type = Skin
+Type = Global
 Hint = Even when you reach your stop, you should go on a little further...
 MapNum = 143
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 39
-Type = Skin
+Type = Global
 Hint = This one's so easy it doesn't merit a hint!
 MapNum = 143
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 40
-Type = Skin
+Type = Global
 Hint = There's a little cistern in the sewers you should check out...
 MapNum = 143
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 41
@@ -562,30 +544,27 @@ Var = 25*TICRATE
 #Snowcap Nimbus Zone Act 1
 
 Emblem 46
-Type = Skin
+Type = Global
 Hint = Explore the purple caverns with extra scrutiny...
 MapNum = 145
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 47
-Type = Skin
+Type = Global
 Hint = Fly as high as you can up the side of the mountains!
 MapNum = 145
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 48
-Type = Skin
+Type = Global
 Hint = It'll take a skilled mountaineer to navigate this maze...
 MapNum = 145
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 49
@@ -620,30 +599,27 @@ Var = 120*TICRATE
 #Snowcap Nimbus Zone Act 2
 
 Emblem 53
-Type = Skin
+Type = Global
 Hint = Look VERY closely along the edges of the cliffs near the start...
 MapNum = 146
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 54
-Type = Skin
+Type = Global
 Hint = Your task is very similar to the one from the last act, but harder!
 MapNum = 146
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 55
-Type = Skin
+Type = Global
 Hint = Maybe for once, this is an oil spill we can all love!
 MapNum = 146
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 56
@@ -687,30 +663,27 @@ Var = 25*TICRATE
 #Gritty Columns Zone Act 1
 
 Emblem 61
-Type = Skin
+Type = Global
 Hint = Desecrating the ancient statue will bring not a curse but a blessing!
 MapNum = 148
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 62
-Type = Skin
+Type = Global
 Hint = Will the statue offer more than one gift?
 MapNum = 148
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 63
-Type = Skin
+Type = Global
 Hint = It's not over yet...scale the temple!
 MapNum = 148
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 64
@@ -745,30 +718,27 @@ Var = 150*TICRATE
 #Gritty Columns Zone Act 2
 
 Emblem 68
-Type = Skin
+Type = Global
 Hint = Race against the quicksand for the grand prize!
 MapNum = 149
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 69
-Type = Skin
+Type = Global
 Hint = Priceless treasures are concealed in the shadows of the great columns...
 MapNum = 149
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 70
-Type = Skin
+Type = Global
 Hint = Who said sinking into quicksand is always a bad thing?
 MapNum = 149
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 71
@@ -812,7 +782,7 @@ Var = 25*TICRATE
 #Fume Shaft Zone Act 1
 
 Emblem 76
-Type = Skin
+Type = Global
 Hint = Did you find that Elemental Shield? You're gonna need it...
 X = -1568
 Y = 14848
@@ -820,11 +790,10 @@ Z = 2324
 MapNum = 151
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 77
-Type = Skin
+Type = Global
 Hint = Check the ceiling before you advance into the metal tube!
 X = 6176
 Y = -3840
@@ -832,11 +801,10 @@ Z = 3040
 MapNum = 151
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 78
-Type = Skin
+Type = Global
 Hint = Those wide-open caverns contain many secrets in the high reaches...
 X = 832
 Y = 8128
@@ -844,7 +812,6 @@ Z = 3680
 MapNum = 151
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 79
@@ -882,7 +849,7 @@ Var = 160*TICRATE
 #Fume Shaft Zone Act 2
 
 Emblem 83
-Type = Skin
+Type = Global
 Hint = Sometimes crumbling floors uncover new openings...
 X = -896
 Y = -6080
@@ -890,11 +857,10 @@ Z = 1696
 MapNum = 152
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 84
-Type = Skin
+Type = Global
 Hint = Dodge the spikeballs and fly to the pillar!
 X = 4480
 Y = -9024
@@ -902,11 +868,10 @@ Z = 1488
 MapNum = 152
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 85
-Type = Skin
+Type = Global
 Hint = Flirt with death! Climb down until your feet nearly touch the acid...
 X = -5600
 Y = -4448
@@ -914,7 +879,6 @@ Z = 1056
 MapNum = 152
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 86
@@ -961,7 +925,7 @@ Var = 50*TICRATE
 #Liftoff Gantry Zone Act 1
 
 Emblem 91
-Type = Skin
+Type = Global
 Hint = Take note of what's on top of the zoom tubes. How might you get up there?
 X = 9376
 Y = -32
@@ -969,11 +933,10 @@ Z = 2804
 MapNum = 154
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 92
-Type = Skin
+Type = Global
 Hint = Fly around the gray towers to find your prize...
 X = 4864
 Y = 1632
@@ -981,11 +944,10 @@ Z = 2000
 MapNum = 154
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 93
-Type = Skin
+Type = Global
 Hint = Climb around on Dr. Eggman's rockets. You might find something good!
 X = -5056
 Y = 1024
@@ -993,7 +955,6 @@ Z = 4048
 MapNum = 154
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 94
@@ -1031,7 +992,7 @@ Var = 225*TICRATE
 #Liftoff Gantry Zone Act 2
 
 Emblem 68
-Type = Skin
+Type = Global
 Hint = Just because a 2D segment is over doesn't mean you can't go back...
 X = 10464
 Y = 5024
@@ -1039,11 +1000,10 @@ Z = 632
 MapNum = 155
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 69
-Type = Skin
+Type = Global
 Hint = After you try your luck in the Chance Room, don't leave too hastily!
 X = -11232
 Y = 544
@@ -1051,11 +1011,10 @@ Z = 3024
 MapNum = 155
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 70
-Type = Skin
+Type = Global
 Hint = What might happen if you double around after you come out that pipe?
 X = -8832
 Y = -8224
@@ -1063,7 +1022,6 @@ Z = 464
 MapNum = 155
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 71
@@ -1110,7 +1068,7 @@ Var = 50*TICRATE
 #Spacewalk Zone Act 1
 
 Emblem 76
-Type = Skin
+Type = Global
 Hint = The giant metal tubes sometimes obscure things...
 X = -2048
 Y = -5888
@@ -1118,11 +1076,10 @@ Z = 3104
 MapNum = 157
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 77
-Type = Skin
+Type = Global
 Hint = Fly around the space junk with precision and care!
 X = 3328
 Y = 5088
@@ -1130,11 +1087,10 @@ Z = 1888
 MapNum = 157
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 78
-Type = Skin
+Type = Global
 Hint = You'll need to do a fair amount of backtracking...
 X = 7616
 Y = 3680
@@ -1142,7 +1098,6 @@ Z = 4048
 MapNum = 157
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 79
@@ -1180,7 +1135,7 @@ Var = 540*TICRATE
 #Spacewalk Zone Act 2
 
 Emblem 83
-Type = Skin
+Type = Global
 Hint = Fly towards this prize with exactly the right angle and speed!
 X = 24544
 Y = -8656
@@ -1188,11 +1143,10 @@ Z = 3584
 MapNum = 158
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 84
-Type = Skin
+Type = Global
 Hint = Hmmmm, you can't just fly over to it. Maybe there's a secret way to get it?
 X = 17312
 Y = 8448
@@ -1200,11 +1154,10 @@ Z = 2144
 MapNum = 158
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 85
-Type = Skin
+Type = Global
 Hint = You saw this path earlier but couldn't take it. Will you remember it later?
 X = 1872
 Y = 14736
@@ -1212,7 +1165,6 @@ Z = 3808
 MapNum = 158
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 86
@@ -1259,7 +1211,7 @@ Var = 300*TICRATE
 #Alien Armageddon Zone Act 1
 
 Emblem 91
-Type = Skin
+Type = Global
 Hint = You'll need to bust into the pipe somehow...
 X = -6912
 Y = 26112
@@ -1267,11 +1219,10 @@ Z = 392
 MapNum = 160
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 92
-Type = Skin
+Type = Global
 Hint = When it's almost over, explore a little before entering the castle!
 X = 13472
 Y = 6144
@@ -1279,11 +1230,10 @@ Z = 4448
 MapNum = 160
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 93
-Type = Skin
+Type = Global
 Hint = Never forget to scale the walls, even nondescript ones!
 X = -16000
 Y = 13952
@@ -1291,7 +1241,6 @@ Z = 4048
 MapNum = 160
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 94
@@ -1329,7 +1278,7 @@ Var = 390*TICRATE
 #Alien Armageddon Zone Act 2
 
 Emblem 98
-Type = Skin
+Type = Global
 Hint = Dr. Eggman would appreciate you not jumping around on his bookshelves...
 X = -16544
 Y = 5760
@@ -1337,11 +1286,10 @@ Z = 2080
 MapNum = 161
 Sprite = A
 Color = SKINCOLOR_BLUE
-Var = 0
 Tag = 1
 
 Emblem 99
-Type = Skin
+Type = Global
 Hint = O'er the ramparts we didn't watch, we were too busy hunting for secrets...
 X = -192
 Y = 480
@@ -1349,11 +1297,10 @@ Z = 3872
 MapNum = 161
 Sprite = B
 Color = SKINCOLOR_LAVENDER
-Var = 1
 Tag = 2
 
 Emblem 100
-Type = Skin
+Type = Global
 Hint = When you step outside, be sure to climb up, and not just for the view!
 X = -2688
 Y = 12608
@@ -1361,7 +1308,6 @@ Z = 4048
 MapNum = 161
 Sprite = C
 Color = SKINCOLOR_RED
-Var = 2
 Tag = 3
 
 Emblem 101
