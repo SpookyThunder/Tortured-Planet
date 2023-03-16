@@ -1,2 +1,4 @@
 
 *.dbs
+*.backup[0-9]
+*.backup1

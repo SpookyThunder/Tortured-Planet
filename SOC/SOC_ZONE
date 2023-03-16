@@ -4,8 +4,9 @@
 Level 136
 LevelName = Sunshine Atoll
 Act = 1
+Keywords = SAZ1
 Music = SAZ1
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 137
 BonusType = Normal
 SkyNum = 2
@@ -16,8 +17,9 @@ PreCutsceneNum = 2
 Level 137
 LevelName = Sunshine Atoll
 Act = 2
+Keywords = SAZ2
 Music = SAZ2
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 138
 BonusType = Normal
 SkyNum = 2
@@ -27,8 +29,9 @@ RecordAttack = true
 Level 138
 LevelName = Sunshine Atoll
 Act = 3
+Keywords = SAZ3
 Music = TPBOSS
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 139
 BonusType = Boss
 SkyNum = 2
@@ -38,8 +41,9 @@ RecordAttack = true
 Level 139
 LevelName = Eruption Conduit
 Act = 1
+Keywords = ECZ1
 Music = ECZ1
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 140
 BonusType = Normal
 SkyNum = 3
@@ -50,8 +54,9 @@ PreCutsceneNum = 3
 Level 140
 LevelName = Eruption Conduit
 Act = 2
+Keywords = ECZ2
 Music = ECZ2
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 141
 BonusType = Normal
 SkyNum = 3
@@ -61,8 +66,9 @@ RecordAttack = true
 Level 141
 LevelName = Eruption Conduit
 Act = 3
+Keywords = ECZ3
 Music = TPBOSS
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 142
 BonusType = Boss
 SkyNum = 3
@@ -72,8 +78,9 @@ RecordAttack = true
 Level 142
 LevelName = Drowned Downtown
 Act = 1
+Keywords = DDZ1
 Music = DDZ1
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 143
 BonusType = Normal
 SkyNum = 5
@@ -85,8 +92,9 @@ PreCutsceneNum = 4
 Level 143
 LevelName = Drowned Downtown
 Act = 2
+Keywords = DDZ2
 Music = DDZ2
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 144
 BonusType = Normal
 SkyNum = 5
@@ -97,8 +105,9 @@ RecordAttack = true
 Level 144
 LevelName = Drowned Downtown
 Act = 3
+Keywords = DDZ3
 Music = TPBOSS
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 145
 BonusType = Boss
 SkyNum = 5
@@ -109,8 +118,9 @@ RecordAttack = true
 Level 145
 LevelName = Snowcap Nimbus
 Act = 1
+Keywords = SNZ1
 Music = SNZ
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 146
 BonusType = Normal
 SkyNum = 6
@@ -122,8 +132,9 @@ PreCutsceneNum = 5
 Level 146
 LevelName = Snowcap Nimbus
 Act = 2
+Keywords = SNZ2
 Music = SNZ
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 147
 BonusType = Normal
 SkyNum = 6
@@ -134,8 +145,9 @@ RecordAttack = true
 Level 147
 LevelName = Snowcap Nimbus
 Act = 3
+Keywords = SNZ3
 Music = TPBOSS
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 148
 BonusType = Boss
 SkyNum = 6
@@ -146,8 +158,9 @@ RecordAttack = true
 Level 148
 LevelName = Gritty Columns
 Act = 1
+Keywords = GCZ1
 Music = GCZ1
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 149
 BonusType = Normal
 SkyNum = 13
@@ -158,8 +171,9 @@ PreCutsceneNum = 6
 Level 149
 LevelName = Gritty Columns
 Act = 2
+Keywords = GCZ2
 Music = GCZ2
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 150
 BonusType = Normal
 SkyNum = 8
@@ -169,8 +183,9 @@ RecordAttack = true
 Level 150
 LevelName = Gritty Columns
 Act = 3
+Keywords = GCZ3
 Music = TPBOSS
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 151
 BonusType = Boss
 SkyNum = 13
@@ -180,8 +195,9 @@ RecordAttack = true
 Level 151
 LevelName = Fume Shaft
 Act = 1
+Keywords = FSZ1
 Music = FSZ1
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 152
 BonusType = Normal
 SkyNum = 7
@@ -193,8 +209,9 @@ PreCutsceneNum = 7
 Level 152
 LevelName = Fume Shaft
 Act = 2
+Keywords = FSZ2
 Music = FSZ2
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 153
 BonusType = Normal
 SkyNum = 7
@@ -206,8 +223,9 @@ Hidden = false
 Level 153
 LevelName = Fume Shaft
 Act = 3
+Keywords = FSZ3
 Music = TPBOSS
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 154
 BonusType = Boss
 SkyNum = 7
@@ -218,8 +236,9 @@ RecordAttack = true
 Level 154
 LevelName = Liftoff Gantry
 Act = 1
+Keywords = LGZ1
 Music = LGZ1
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 155
 BonusType = Normal
 SkyNum = 9
@@ -230,8 +249,9 @@ PreCutsceneNum = 8
 Level 155
 LevelName = Liftoff Gantry
 Act = 2
+Keywords = LGZ2
 Music = LGZ2
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 156
 BonusType = Normal
 SkyNum = 9
@@ -241,8 +261,9 @@ RecordAttack = true
 Level 156
 LevelName = Liftoff Gantry
 Act = 3
+Keywords = LGZ3
 Music = TPBOSS
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 160
 BonusType = Boss
 SkyNum = 9
@@ -252,8 +273,9 @@ RecordAttack = true
 Level 157
 LevelName = Spacewalk
 Act = 1
+Keywords = SWZ1
 Music = SWZ
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 158
 BonusType = Normal
 SkyNum = 22
@@ -264,8 +286,9 @@ PreCutsceneNum = 9
 Level 158
 LevelName = Spacewalk
 Act = 2
+Keywords = SWZ2
 Music = SWZ
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 159
 BonusType = Normal
 SkyNum = 22
@@ -275,8 +298,9 @@ RecordAttack = true
 Level 159
 LevelName = Spacewalk
 Act = 3
+Keywords = SWZ3
 Music = TPBOSS
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 160
 BonusType = Boss
 SkyNum = 22
@@ -286,8 +310,9 @@ RecordAttack = true
 Level 160
 LevelName = Alien Armageddon
 Act = 1
+Keywords = AAZ1
 Music = AAZ
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 161
 BonusType = Normal
 SkyNum = 54
@@ -298,8 +323,9 @@ PreCutsceneNum = 10
 Level 161
 LevelName = Alien Armageddon
 Act = 2
+Keywords = AAZ2
 Music = AAZ
-TypeOfLevel = Single,Coop,Race
+TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 162
 BonusType = Normal
 SkyNum = 54
@@ -309,8 +335,9 @@ RecordAttack = true
 Level 162
 LevelName = Alien Armageddon
 Act = 3
+Keywords = AAZ3
 Music = TPBOSS
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 163
 BonusType = Boss
 SkyNum = 54
@@ -320,8 +347,9 @@ RecordAttack = true
 Level 163
 LevelName = Star Showdown
 Act = 0
+Keywords = SSZ
 Music = TPBRAK
-TypeOfLevel = Single,Coop,Oldbrak
+TypeOfLevel = Singleplayer,Co-op,Oldbrak
 NextLevel = 1102
 BonusType = ERZ3
 SkyNum = 21
@@ -427,7 +455,7 @@ Levelname = Fire Flight
 Act = 0
 Music = FFZ
 NextLevel = 1100
-TypeOfLevel = Single,NiGHTS
+TypeOfLevel = Singleplayer,NiGHTS
 Grades1 = 40000,60000,750000,90000,115000,140000
 SkyNum = 8
 Hidden = true
@@ -457,7 +485,7 @@ Level 177
 LevelName = Archive Hub
 Act = 1
 Music = AHZ
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 1100
 BonusType = None
 SkyNum = 10
@@ -469,7 +497,7 @@ Level 178
 LevelName = Archive Hub
 Act = 2
 Music = AHZ
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 1100
 BonusType = None
 SkyNum = 13
@@ -480,7 +508,7 @@ Level 179
 LevelName = Archive Hub
 Act = 3
 Music = AHZ
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 1100
 BonusType = None
 SkyNum = 22
@@ -491,7 +519,7 @@ Level 180
 LevelName = Sunshine Atoll
 Act = 1
 Music = MP_COA
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 177
 BonusType = Normal
 SkyNum = 2
@@ -501,7 +529,7 @@ Level 181
 LevelName = Sunshine Atoll
 Act = 2
 Music = MP_COA
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 177
 BonusType = Normal
 SkyNum = 2
@@ -511,7 +539,7 @@ Level 182
 LevelName = Sunshine Atoll
 Act = 3
 Music = VSALT
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 177
 BonusType = Boss
 SkyNum = 2
@@ -521,7 +549,7 @@ Level 183
 LevelName = Eruption Conduit
 Act = 1
 Music = THZ1
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 177
 BonusType = Normal
 SkyNum = 3
@@ -531,7 +559,7 @@ Level 184
 LevelName = Eruption Conduit
 Act = 2
 Music = THZALT
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 177
 BonusType = Normal
 SkyNum = 3
@@ -541,7 +569,7 @@ Level 185
 LevelName = Eruption Conduit
 Act = 3
 Music = VSALT
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 177
 BonusType = Boss
 SkyNum = 3
@@ -551,7 +579,7 @@ Level 186
 LevelName = Drowned Downtown
 Act = 1
 Music = DCZ
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 177
 BonusType = Normal
 SkyNum = 5
@@ -562,7 +590,7 @@ Level 187
 LevelName = Drowned Downtown
 Act = 2
 Music = DCZ
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 177
 BonusType = Normal
 SkyNum = 5
@@ -573,7 +601,7 @@ Level 188
 LevelName = Drowned Downtown
 Act = 3
 Music = VSALT
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 177
 BonusType = Normal
 SkyNum = 5
@@ -584,7 +612,7 @@ Level 189
 LevelName = Snowcap Nimbus
 Act = 1
 Music = SNZARC
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Normal
 SkyNum = 1
@@ -595,7 +623,7 @@ Level 190
 LevelName = Snowcap Nimbus
 Act = 2
 Music = MP_ICE
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Normal
 SkyNum = 1
@@ -606,7 +634,7 @@ Level 191
 LevelName = Snowcap Nimbus
 Act = 3
 Music = VSALT
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Boss
 SkyNum = 1
@@ -617,7 +645,7 @@ Level 192
 LevelName = Gritty Columns
 Act = 1
 Music = MP_GL2
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Normal
 SkyNum = 13
@@ -627,7 +655,7 @@ Level 193
 LevelName = Gritty Columns
 Act = 2
 Music = MP_GLZ
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Normal
 SkyNum = 13
@@ -637,7 +665,7 @@ Level 194
 LevelName = Gritty Columns
 Act = 3
 Music = VSALT
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Boss
 SkyNum = 13
@@ -647,7 +675,7 @@ Level 195
 LevelName = Fume Shaft
 Act = 1
 Music = RVZ1
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Normal
 SkyNum = 7
@@ -657,7 +685,7 @@ Level 196
 LevelName = Fume Shaft
 Act = 2
 Music = RVZ2
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Normal
 SkyNum = 7
@@ -667,7 +695,7 @@ Level 197
 LevelName = Fume Shaft
 Act = 3
 Music = VSALT
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Boss
 SkyNum = 7
@@ -677,7 +705,7 @@ Level 198
 LevelName = Liftoff Gantry
 Act = 1
 Music = ERZ1
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 179
 BonusType = Normal
 SkyNum = 9
@@ -687,7 +715,7 @@ Level 199
 LevelName = Liftoff Gantry
 Act = 2
 Music = ERZ2
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 179
 BonusType = Normal
 SkyNum = 9
@@ -697,7 +725,7 @@ Level 200
 LevelName = Liftoff Gantry
 Act = 3
 Music = VSALT
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 179
 BonusType = Boss
 SkyNum = 9
@@ -707,7 +735,7 @@ Level 201
 LevelName = Spacewalk
 Act = 1
 Music = DSZ1
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 179
 BonusType = Normal
 SkyNum = 22
@@ -717,7 +745,7 @@ Level 202
 LevelName = Spacewalk
 Act = 2
 Music = DSZ2
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 179
 BonusType = Normal
 SkyNum = 22
@@ -727,7 +755,7 @@ Level 203
 LevelName = Spacewalk
 Act = 3
 Music = VSALT
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 179
 BonusType = Boss
 SkyNum = 22
@@ -737,7 +765,7 @@ Level 204
 LevelName = Alien Armageddon
 Act = 1
 Music = _INTRO
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 179
 BonusType = Normal
 SkyNum = 54
@@ -747,7 +775,7 @@ Level 205
 LevelName = Alien Armageddon
 Act = 2
 Music = _INTRO
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 179
 BonusType = Normal
 SkyNum = 54
@@ -757,7 +785,7 @@ Level 206
 LevelName = Alien Armageddon
 Act = 3
 Music = VSALT
-TypeOfLevel = Single,Coop
+TypeOfLevel = Singleplayer,Co-op
 NextLevel = 179
 BonusType = Boss
 SkyNum = 54
@@ -767,7 +795,7 @@ Level 207
 LevelName = Star Showdown
 Act = 0
 Music = TPBRAK
-TypeOfLevel = Single,Coop,Oldbrak
+TypeOfLevel = Singleplayer,Co-op,Oldbrak
 NextLevel = 179
 BonusType = ERZ3
 SkyNum = 21

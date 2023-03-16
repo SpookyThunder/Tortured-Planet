@@ -689,45 +689,37 @@ Var = 25*TICRATE
 Emblem 61
 Type = Skin
 Hint = Desecrating the ancient statue will bring not a curse but a blessing!
-X = 3328
-Y = -4032
-Z = 1696
 MapNum = 148
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 62
 Type = Skin
 Hint = Will the statue offer more than one gift?
-X = 4704
-Y = -3104
-Z = 3200
 MapNum = 148
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 63
 Type = Skin
 Hint = It's not over yet...scale the temple!
-X = -16382
-Y = -2272
-Z = 3008
 MapNum = 148
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 64
 Type = Global
 Hint = ???
-X = 704
-Y = -1600
-Z = 1568
 MapNum = 148
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 65
 Type = Rings
@@ -755,45 +747,37 @@ Var = 150*TICRATE
 Emblem 68
 Type = Skin
 Hint = Race against the quicksand for the grand prize!
-X = -12416
-Y = 3328
-Z = 2336
 MapNum = 149
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 69
 Type = Skin
 Hint = Priceless treasures are concealed in the shadows of the great columns...
-X = -768
-Y = -5184
-Z = 1056
 MapNum = 149
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 70
 Type = Skin
 Hint = Who said sinking into quicksand is always a bad thing?
-X = -1504
-Y = -6496
-Z = 1504
 MapNum = 149
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 71
 Type = Global
 Hint = ???
-X = -2368
-Y = 13184
-Z = 2304
 MapNum = 149
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 72
 Type = Rings
@@ -837,6 +821,7 @@ MapNum = 151
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 77
 Type = Skin
@@ -848,6 +833,7 @@ MapNum = 151
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 78
 Type = Skin
@@ -859,6 +845,7 @@ MapNum = 151
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 79
 Type = Global
@@ -869,6 +856,7 @@ Z = 1568
 MapNum = 151
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 80
 Type = Rings
@@ -903,6 +891,7 @@ MapNum = 152
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 84
 Type = Skin
@@ -914,6 +903,7 @@ MapNum = 152
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 85
 Type = Skin
@@ -925,6 +915,7 @@ MapNum = 152
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 86
 Type = Global
@@ -935,6 +926,7 @@ Z = 1056
 MapNum = 152
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 87
 Type = Rings
@@ -978,6 +970,7 @@ MapNum = 154
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
 Emblem 92
 Type = Skin
@@ -989,6 +982,7 @@ MapNum = 154
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
 Emblem 93
 Type = Skin
@@ -1000,6 +994,7 @@ MapNum = 154
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
 Emblem 94
 Type = Global
@@ -1010,6 +1005,7 @@ Z = 2176
 MapNum = 154
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
 Emblem 65
 Type = Rings
@@ -1025,8 +1021,7 @@ Sprite = S
 Color = SKINCOLOR_YELLOW
 Var = 60000
 
-
-Emblem 97
+Emblem 67
 Type = Time
 MapNum = 154
 Sprite = T
@@ -1035,7 +1030,7 @@ Var = 225*TICRATE
 
 #Liftoff Gantry Zone Act 2
 
-Emblem 98
+Emblem 68
 Type = Skin
 Hint = Just because a 2D segment is over doesn't mean you can't go back...
 X = 10464
@@ -1045,8 +1040,9 @@ MapNum = 155
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
-Emblem 99
+Emblem 69
 Type = Skin
 Hint = After you try your luck in the Chance Room, don't leave too hastily!
 X = -11232
@@ -1056,8 +1052,9 @@ MapNum = 155
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
-Emblem 100
+Emblem 70
 Type = Skin
 Hint = What might happen if you double around after you come out that pipe?
 X = -8832
@@ -1067,8 +1064,9 @@ MapNum = 155
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
-Emblem 101
+Emblem 71
 Type = Global
 Hint = ???
 X = 16448
@@ -1077,22 +1075,23 @@ Z = 1312
 MapNum = 155
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
-Emblem 102
+Emblem 72
 Type = Rings
 MapNum = 155
 Sprite = R
 Color = SKINCOLOR_YELLOW
 Var = 400
 
-Emblem 103
+Emblem 73
 Type = Score
 MapNum = 155
 Sprite = S
 Color = SKINCOLOR_YELLOW
 Var = 64000
 
-Emblem 104
+Emblem 74
 Type = Time
 MapNum = 155
 Sprite = T
@@ -1101,7 +1100,7 @@ Var = 330*TICRATE
 
 #Liftoff Gantry Zone Act 3
 
-Emblem 105
+Emblem 75
 Type = Time
 MapNum = 156
 Sprite = T
@@ -1110,7 +1109,7 @@ Var = 50*TICRATE
 
 #Spacewalk Zone Act 1
 
-Emblem 106
+Emblem 76
 Type = Skin
 Hint = The giant metal tubes sometimes obscure things...
 X = -2048
@@ -1120,8 +1119,9 @@ MapNum = 157
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
-Emblem 107
+Emblem 77
 Type = Skin
 Hint = Fly around the space junk with precision and care!
 X = 3328
@@ -1131,8 +1131,9 @@ MapNum = 157
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
-Emblem 108
+Emblem 78
 Type = Skin
 Hint = You'll need to do a fair amount of backtracking...
 X = 7616
@@ -1142,8 +1143,9 @@ MapNum = 157
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
-Emblem 109
+Emblem 79
 Type = Global
 Hint = ???
 X = 5984
@@ -1152,22 +1154,23 @@ Z = 4032
 MapNum = 157
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
-Emblem 110
+Emblem 80
 Type = Rings
 MapNum = 157
 Sprite = R
 Color = SKINCOLOR_YELLOW
 Var = 700
 
-Emblem 111
+Emblem 81
 Type = Score
 MapNum = 157
 Sprite = S
 Color = SKINCOLOR_YELLOW
 Var = 83000
 
-Emblem 112
+Emblem 82
 Type = Time
 MapNum = 157
 Sprite = T
@@ -1176,7 +1179,7 @@ Var = 540*TICRATE
 
 #Spacewalk Zone Act 2
 
-Emblem 113
+Emblem 83
 Type = Skin
 Hint = Fly towards this prize with exactly the right angle and speed!
 X = 24544
@@ -1186,8 +1189,9 @@ MapNum = 158
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
-Emblem 114
+Emblem 84
 Type = Skin
 Hint = Hmmmm, you can't just fly over to it. Maybe there's a secret way to get it?
 X = 17312
@@ -1197,8 +1201,9 @@ MapNum = 158
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
-Emblem 115
+Emblem 85
 Type = Skin
 Hint = You saw this path earlier but couldn't take it. Will you remember it later?
 X = 1872
@@ -1208,8 +1213,9 @@ MapNum = 158
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
-Emblem 116
+Emblem 86
 Type = Global
 Hint = ???
 X = -288
@@ -1218,22 +1224,23 @@ Z = 4032
 MapNum = 158
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
-Emblem 117
+Emblem 87
 Type = Rings
 MapNum = 158
 Sprite = R
 Color = SKINCOLOR_YELLOW
 Var = 650
 
-Emblem 118
+Emblem 88
 Type = Score
 MapNum = 158
 Sprite = S
 Color = SKINCOLOR_YELLOW
 Var = 87000
 
-Emblem 119
+Emblem 89
 Type = Time
 MapNum = 158
 Sprite = T
@@ -1242,7 +1249,7 @@ Var = 720*TICRATE
 
 #Spacewalk Zone Act 3
 
-Emblem 120
+Emblem 90
 Type = Time
 MapNum = 159
 Sprite = T
@@ -1251,7 +1258,7 @@ Var = 300*TICRATE
 
 #Alien Armageddon Zone Act 1
 
-Emblem 121
+Emblem 91
 Type = Skin
 Hint = You'll need to bust into the pipe somehow...
 X = -6912
@@ -1261,8 +1268,9 @@ MapNum = 160
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
-Emblem 122
+Emblem 92
 Type = Skin
 Hint = When it's almost over, explore a little before entering the castle!
 X = 13472
@@ -1272,8 +1280,9 @@ MapNum = 160
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
-Emblem 123
+Emblem 93
 Type = Skin
 Hint = Never forget to scale the walls, even nondescript ones!
 X = -16000
@@ -1283,8 +1292,9 @@ MapNum = 160
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
-Emblem 124
+Emblem 94
 Type = Global
 Hint = ???
 X = -13984
@@ -1293,22 +1303,23 @@ Z = 2144
 MapNum = 160
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
-Emblem 125
+Emblem 95
 Type = Rings
 MapNum = 160
 Sprite = R
 Color = SKINCOLOR_YELLOW
 Var = 580
 
-Emblem 126
+Emblem 96
 Type = Score
 MapNum = 160
 Sprite = S
 Color = SKINCOLOR_YELLOW
 Var = 84000
 
-Emblem 127
+Emblem 97
 Type = Time
 MapNum = 160
 Sprite = T
@@ -1317,7 +1328,7 @@ Var = 390*TICRATE
 
 #Alien Armageddon Zone Act 2
 
-Emblem 128
+Emblem 98
 Type = Skin
 Hint = Dr. Eggman would appreciate you not jumping around on his bookshelves...
 X = -16544
@@ -1327,8 +1338,9 @@ MapNum = 161
 Sprite = U
 Color = SKINCOLOR_BLUE
 Var = 0
+Tag = 1
 
-Emblem 129
+Emblem 99
 Type = Skin
 Hint = O'er the ramparts we didn't watch, we were too busy hunting for secrets...
 X = -192
@@ -1338,8 +1350,9 @@ MapNum = 161
 Sprite = V
 Color = SKINCOLOR_ORANGE
 Var = 1
+Tag = 2
 
-Emblem 130
+Emblem 100
 Type = Skin
 Hint = When you step outside, be sure to climb up, and not just for the view!
 X = -2688
@@ -1349,8 +1362,9 @@ MapNum = 161
 Sprite = W
 Color = SKINCOLOR_RED
 Var = 2
+Tag = 3
 
-Emblem 131
+Emblem 101
 Type = Global
 Hint = ???
 X = 7200
@@ -1359,22 +1373,23 @@ Z = 1920
 MapNum = 161
 Sprite = A
 Color = SKINCOLOR_CYAN
+Tag = 4
 
-Emblem 132
+Emblem 102
 Type = Rings
 MapNum = 161
 Sprite = R
 Color = SKINCOLOR_YELLOW
 Var = 480
 
-Emblem 133
+Emblem 103
 Type = Score
 MapNum = 161
 Sprite = S
 Color = SKINCOLOR_YELLOW
 Var = 87000
 
-Emblem 134
+Emblem 104
 Type = Time
 MapNum = 161
 Sprite = T
@@ -1383,7 +1398,7 @@ Var = 420*TICRATE
 
 #Alien Armageddon Zone Act 3
 
-Emblem 135
+Emblem 105
 Type = Time
 MapNum = 162
 Sprite = T
@@ -1392,7 +1407,7 @@ Var = 170*TICRATE
 
 #Star Showdown Zone
 
-Emblem 136
+Emblem 106
 Type = Time
 MapNum = 163
 Sprite = T
