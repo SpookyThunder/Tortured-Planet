@@ -190,7 +190,7 @@ Emblem 1
 Type = Skin
 Hint = Hope you don't mind getting wet!
 MapNum = 136
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -199,8 +199,8 @@ Emblem 2
 Type = Skin
 Hint = It can be hard to see those tiny ledges...
 MapNum = 136
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -208,7 +208,7 @@ Emblem 3
 Type = Skin
 Hint = The trees conceal more than you realize...
 MapNum = 136
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -217,8 +217,8 @@ Emblem 4
 Type = Global
 Hint = ???
 MapNum = 136
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 5
@@ -248,7 +248,7 @@ Emblem 8
 Type = Skin
 Hint = A leap of faith above an underwater chasm...
 MapNum = 137
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -257,8 +257,8 @@ Emblem 9
 Type = Skin
 Hint = Take to the open air to find this one!
 MapNum = 137
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -266,7 +266,7 @@ Emblem 10
 Type = Skin
 Hint = You'll have to find another way to climb up there...
 MapNum = 137
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -275,8 +275,8 @@ Emblem 11
 Type = Global
 Hint = ???
 MapNum = 137
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 12
@@ -315,7 +315,7 @@ Emblem 16
 Type = Skin
 Hint = Maybe there's a way to make those fans blow harder?
 MapNum = 139
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -324,8 +324,8 @@ Emblem 17
 Type = Skin
 Hint = The cliffs outside the factory hold a secret...
 MapNum = 139
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -333,7 +333,7 @@ Emblem 18
 Type = Skin
 Hint = Your prize awaits you deep within the pipes!
 MapNum = 139
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -342,8 +342,8 @@ Emblem 19
 Type = Global
 Hint = ???
 MapNum = 139
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 20
@@ -373,7 +373,7 @@ Emblem 23
 Type = Skin
 Hint = Does that protruding pipe lead anywhere?
 MapNum = 140
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -382,8 +382,8 @@ Emblem 24
 Type = Skin
 Hint = Fly off the bridges and explore the cavern walls!
 MapNum = 140
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -391,7 +391,7 @@ Emblem 25
 Type = Skin
 Hint = There might be a prize for you at the bottom of the tank...
 MapNum = 140
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -400,8 +400,8 @@ Emblem 26
 Type = Global
 Hint = ???
 MapNum = 140
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 27
@@ -440,7 +440,7 @@ Emblem 31
 Type = Skin
 Hint = There's a lot to explore down on the lake below!
 MapNum = 142
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -449,8 +449,8 @@ Emblem 32
 Type = Skin
 Hint = A treat awaits you in the chimney, and it ain't milk and cookies...
 MapNum = 142
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -458,7 +458,7 @@ Emblem 33
 Type = Skin
 Hint = Sometimes even secret tunnels have secrets of their own...
 MapNum = 142
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -467,8 +467,8 @@ Emblem 34
 Type = Global
 Hint = ???
 MapNum = 142
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 35
@@ -498,7 +498,7 @@ Emblem 38
 Type = Skin
 Hint = Even when you reach your stop, you should go on a little further...
 MapNum = 143
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -507,8 +507,8 @@ Emblem 39
 Type = Skin
 Hint = This one's so easy it doesn't merit a hint!
 MapNum = 143
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -516,7 +516,7 @@ Emblem 40
 Type = Skin
 Hint = There's a little cistern in the sewers you should check out...
 MapNum = 143
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -525,8 +525,8 @@ Emblem 41
 Type = Global
 Hint = ???
 MapNum = 143
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 42
@@ -565,7 +565,7 @@ Emblem 46
 Type = Skin
 Hint = Explore the purple caverns with extra scrutiny...
 MapNum = 145
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -574,8 +574,8 @@ Emblem 47
 Type = Skin
 Hint = Fly as high as you can up the side of the mountains!
 MapNum = 145
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -583,7 +583,7 @@ Emblem 48
 Type = Skin
 Hint = It'll take a skilled mountaineer to navigate this maze...
 MapNum = 145
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -592,8 +592,8 @@ Emblem 49
 Type = Global
 Hint = ???
 MapNum = 145
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 50
@@ -623,7 +623,7 @@ Emblem 53
 Type = Skin
 Hint = Look VERY closely along the edges of the cliffs near the start...
 MapNum = 146
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -632,8 +632,8 @@ Emblem 54
 Type = Skin
 Hint = Your task is very similar to the one from the last act, but harder!
 MapNum = 146
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -641,7 +641,7 @@ Emblem 55
 Type = Skin
 Hint = Maybe for once, this is an oil spill we can all love!
 MapNum = 146
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -650,8 +650,8 @@ Emblem 56
 Type = Global
 Hint = ???
 MapNum = 146
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 57
@@ -690,7 +690,7 @@ Emblem 61
 Type = Skin
 Hint = Desecrating the ancient statue will bring not a curse but a blessing!
 MapNum = 148
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -699,8 +699,8 @@ Emblem 62
 Type = Skin
 Hint = Will the statue offer more than one gift?
 MapNum = 148
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -708,7 +708,7 @@ Emblem 63
 Type = Skin
 Hint = It's not over yet...scale the temple!
 MapNum = 148
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -717,8 +717,8 @@ Emblem 64
 Type = Global
 Hint = ???
 MapNum = 148
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 65
@@ -748,7 +748,7 @@ Emblem 68
 Type = Skin
 Hint = Race against the quicksand for the grand prize!
 MapNum = 149
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -757,8 +757,8 @@ Emblem 69
 Type = Skin
 Hint = Priceless treasures are concealed in the shadows of the great columns...
 MapNum = 149
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -766,7 +766,7 @@ Emblem 70
 Type = Skin
 Hint = Who said sinking into quicksand is always a bad thing?
 MapNum = 149
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -775,8 +775,8 @@ Emblem 71
 Type = Global
 Hint = ???
 MapNum = 149
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 72
@@ -818,7 +818,7 @@ X = -1568
 Y = 14848
 Z = 2324
 MapNum = 151
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -830,8 +830,8 @@ X = 6176
 Y = -3840
 Z = 3040
 MapNum = 151
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -842,7 +842,7 @@ X = 832
 Y = 8128
 Z = 3680
 MapNum = 151
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -854,8 +854,8 @@ X = -192
 Y = 14272
 Z = 1568
 MapNum = 151
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 80
@@ -888,7 +888,7 @@ X = -896
 Y = -6080
 Z = 1696
 MapNum = 152
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -900,8 +900,8 @@ X = 4480
 Y = -9024
 Z = 1488
 MapNum = 152
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -912,7 +912,7 @@ X = -5600
 Y = -4448
 Z = 1056
 MapNum = 152
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -924,8 +924,8 @@ X = 2432
 Y = -4096
 Z = 1056
 MapNum = 152
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 87
@@ -967,7 +967,7 @@ X = 9376
 Y = -32
 Z = 2804
 MapNum = 154
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -979,8 +979,8 @@ X = 4864
 Y = 1632
 Z = 2000
 MapNum = 154
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -991,7 +991,7 @@ X = -5056
 Y = 1024
 Z = 4048
 MapNum = 154
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -1003,8 +1003,8 @@ X = -2144
 Y = 4864
 Z = 2176
 MapNum = 154
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 65
@@ -1037,7 +1037,7 @@ X = 10464
 Y = 5024
 Z = 632
 MapNum = 155
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -1049,8 +1049,8 @@ X = -11232
 Y = 544
 Z = 3024
 MapNum = 155
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -1061,7 +1061,7 @@ X = -8832
 Y = -8224
 Z = 464
 MapNum = 155
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -1073,8 +1073,8 @@ X = 16448
 Y = 9792
 Z = 1312
 MapNum = 155
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 72
@@ -1116,7 +1116,7 @@ X = -2048
 Y = -5888
 Z = 3104
 MapNum = 157
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -1128,8 +1128,8 @@ X = 3328
 Y = 5088
 Z = 1888
 MapNum = 157
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -1140,7 +1140,7 @@ X = 7616
 Y = 3680
 Z = 4048
 MapNum = 157
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -1152,8 +1152,8 @@ X = 5984
 Y = -2656
 Z = 4032
 MapNum = 157
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 80
@@ -1186,7 +1186,7 @@ X = 24544
 Y = -8656
 Z = 3584
 MapNum = 158
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -1198,8 +1198,8 @@ X = 17312
 Y = 8448
 Z = 2144
 MapNum = 158
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -1210,7 +1210,7 @@ X = 1872
 Y = 14736
 Z = 3808
 MapNum = 158
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -1222,8 +1222,8 @@ X = -288
 Y = 18176
 Z = 4032
 MapNum = 158
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 87
@@ -1265,7 +1265,7 @@ X = -6912
 Y = 26112
 Z = 392
 MapNum = 160
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -1277,8 +1277,8 @@ X = 13472
 Y = 6144
 Z = 4448
 MapNum = 160
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -1289,7 +1289,7 @@ X = -16000
 Y = 13952
 Z = 4048
 MapNum = 160
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -1301,8 +1301,8 @@ X = -13984
 Y = 11424
 Z = 2144
 MapNum = 160
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 95
@@ -1335,7 +1335,7 @@ X = -16544
 Y = 5760
 Z = 2080
 MapNum = 161
-Sprite = U
+Sprite = A
 Color = SKINCOLOR_BLUE
 Var = 0
 Tag = 1
@@ -1347,8 +1347,8 @@ X = -192
 Y = 480
 Z = 3872
 MapNum = 161
-Sprite = V
-Color = SKINCOLOR_ORANGE
+Sprite = B
+Color = SKINCOLOR_LAVENDER
 Var = 1
 Tag = 2
 
@@ -1359,7 +1359,7 @@ X = -2688
 Y = 12608
 Z = 4048
 MapNum = 161
-Sprite = W
+Sprite = C
 Color = SKINCOLOR_RED
 Var = 2
 Tag = 3
@@ -1371,8 +1371,8 @@ X = 7200
 Y = -10720
 Z = 1920
 MapNum = 161
-Sprite = A
-Color = SKINCOLOR_CYAN
+Sprite = D
+Color = SKINCOLOR_ORANGE
 Tag = 4
 
 Emblem 102
