@@ -222,21 +222,21 @@ Emblem 5
 Type = Rings
 MapNum = 136
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 330
 
 Emblem 6
 Type = Score
 MapNum = 136
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 55000
 
 Emblem 7
 Type = Time
 MapNum = 136
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 40*TICRATE
 
 #Sunshine Atoll Zone Act 2
@@ -277,21 +277,21 @@ Emblem 12
 Type = Rings
 MapNum = 137
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 450
 
 Emblem 13
 Type = Score
 MapNum = 137
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 65000
 
 Emblem 14
 Type = Time
 MapNum = 137
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 80*TICRATE
 
 #Sunshine Atoll Zone Act 3
@@ -300,7 +300,7 @@ Emblem 15
 Type = Time
 MapNum = 138
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 30*TICRATE
 
 #Eruption Conduit Zone Act 1
@@ -341,21 +341,21 @@ Emblem 20
 Type = Rings
 MapNum = 139
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 380
 
 Emblem 21
 Type = Score
 MapNum = 139
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 54000
 
 Emblem 22
 Type = Time
 MapNum = 139
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 80*TICRATE
 
 #Eruption Conduit Zone Act 2
@@ -396,21 +396,21 @@ Emblem 27
 Type = Rings
 MapNum = 140
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 350
 
 Emblem 28
 Type = Score
 MapNum = 140
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 50000
 
 Emblem 29
 Type = Time
 MapNum = 140
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 120*TICRATE
 
 #Eruption Conduit Zone Act 3
@@ -419,7 +419,7 @@ Emblem 30
 Type = Time
 MapNum = 141
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 30*TICRATE
 
 #Drowned Downtown Zone Act 1
@@ -460,21 +460,21 @@ Emblem 35
 Type = Rings
 MapNum = 142
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 490
 
 Emblem 36
 Type = Score
 MapNum = 142
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 64000
 
 Emblem 37
 Type = Time
 MapNum = 142
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 120*TICRATE
 
 #Drowned Downtown Zone Act 2
@@ -515,21 +515,21 @@ Emblem 42
 Type = Rings
 MapNum = 143
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 600
 
 Emblem 43
 Type = Score
 MapNum = 143
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 75000
 
 Emblem 44
 Type = Time
 MapNum = 143
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 190*TICRATE
 
 #Drowned Downtown Zone Act 3
@@ -538,7 +538,7 @@ Emblem 45
 Type = Time
 MapNum = 144
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 25*TICRATE
 
 #Snowcap Nimbus Zone Act 1
@@ -579,21 +579,21 @@ Emblem 50
 Type = Rings
 MapNum = 145
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 650
 
 Emblem 51
 Type = Score
 MapNum = 145
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 80000
 
 Emblem 52
 Type = Time
 MapNum = 145
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 120*TICRATE
 
 #Snowcap Nimbus Zone Act 2
@@ -634,21 +634,21 @@ Emblem 57
 Type = Rings
 MapNum = 146
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 500
 
 Emblem 58
 Type = Score
 MapNum = 146
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 67000
 
 Emblem 59
 Type = Time
 MapNum = 146
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 120*TICRATE
 
 #Snowcap Nimbus Zone Act 3
@@ -657,7 +657,7 @@ Emblem 60
 Type = Time
 MapNum = 147
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 25*TICRATE
 
 #Gritty Columns Zone Act 1
@@ -698,21 +698,21 @@ Emblem 65
 Type = Rings
 MapNum = 148
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 550
 
 Emblem 66
 Type = Score
 MapNum = 148
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 73000
 
 Emblem 67
 Type = Time
 MapNum = 148
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 150*TICRATE
 
 #Gritty Columns Zone Act 2
@@ -753,21 +753,21 @@ Emblem 72
 Type = Rings
 MapNum = 149
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 400
 
 Emblem 73
 Type = Score
 MapNum = 149
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 56000
 
 Emblem 74
 Type = Time
 MapNum = 149
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 260*TICRATE
 
 #Gritty Columns Zone Act 3
@@ -776,7 +776,7 @@ Emblem 75
 Type = Time
 MapNum = 150
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 25*TICRATE
 
 #Fume Shaft Zone Act 1
@@ -784,9 +784,6 @@ Var = 25*TICRATE
 Emblem 76
 Type = Global
 Hint = Did you find that Elemental Shield? You're gonna need it...
-X = -1568
-Y = 14848
-Z = 2324
 MapNum = 151
 Sprite = A
 Color = SKINCOLOR_BLUE
@@ -795,9 +792,6 @@ Tag = 1
 Emblem 77
 Type = Global
 Hint = Check the ceiling before you advance into the metal tube!
-X = 6176
-Y = -3840
-Z = 3040
 MapNum = 151
 Sprite = B
 Color = SKINCOLOR_LAVENDER
@@ -806,9 +800,6 @@ Tag = 2
 Emblem 78
 Type = Global
 Hint = Those wide-open caverns contain many secrets in the high reaches...
-X = 832
-Y = 8128
-Z = 3680
 MapNum = 151
 Sprite = C
 Color = SKINCOLOR_RED
@@ -817,9 +808,6 @@ Tag = 3
 Emblem 79
 Type = Global
 Hint = ???
-X = -192
-Y = 14272
-Z = 1568
 MapNum = 151
 Sprite = D
 Color = SKINCOLOR_ORANGE
@@ -829,21 +817,21 @@ Emblem 80
 Type = Rings
 MapNum = 151
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 360
 
 Emblem 81
 Type = Score
 MapNum = 151
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 48000
 
 Emblem 82
 Type = Time
 MapNum = 151
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 160*TICRATE
 
 #Fume Shaft Zone Act 2
@@ -851,9 +839,6 @@ Var = 160*TICRATE
 Emblem 83
 Type = Global
 Hint = Sometimes crumbling floors uncover new openings...
-X = -896
-Y = -6080
-Z = 1696
 MapNum = 152
 Sprite = A
 Color = SKINCOLOR_BLUE
@@ -862,9 +847,6 @@ Tag = 1
 Emblem 84
 Type = Global
 Hint = Dodge the spikeballs and fly to the pillar!
-X = 4480
-Y = -9024
-Z = 1488
 MapNum = 152
 Sprite = B
 Color = SKINCOLOR_LAVENDER
@@ -873,9 +855,6 @@ Tag = 2
 Emblem 85
 Type = Global
 Hint = Flirt with death! Climb down until your feet nearly touch the acid...
-X = -5600
-Y = -4448
-Z = 1056
 MapNum = 152
 Sprite = C
 Color = SKINCOLOR_RED
@@ -884,9 +863,6 @@ Tag = 3
 Emblem 86
 Type = Global
 Hint = ???
-X = 2432
-Y = -4096
-Z = 1056
 MapNum = 152
 Sprite = D
 Color = SKINCOLOR_ORANGE
@@ -896,21 +872,21 @@ Emblem 87
 Type = Rings
 MapNum = 152
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 360
 
 Emblem 88
 Type = Score
 MapNum = 152
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 49000
 
 Emblem 89
 Type = Time
 MapNum = 152
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 180*TICRATE
 
 #Fume Shaft Zone Act 3
@@ -919,7 +895,7 @@ Emblem 90
 Type = Time
 MapNum = 153
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 50*TICRATE
 
 #Liftoff Gantry Zone Act 1
@@ -927,9 +903,6 @@ Var = 50*TICRATE
 Emblem 91
 Type = Global
 Hint = Take note of what's on top of the zoom tubes. How might you get up there?
-X = 9376
-Y = -32
-Z = 2804
 MapNum = 154
 Sprite = A
 Color = SKINCOLOR_BLUE
@@ -938,9 +911,6 @@ Tag = 1
 Emblem 92
 Type = Global
 Hint = Fly around the gray towers to find your prize...
-X = 4864
-Y = 1632
-Z = 2000
 MapNum = 154
 Sprite = B
 Color = SKINCOLOR_LAVENDER
@@ -949,9 +919,6 @@ Tag = 2
 Emblem 93
 Type = Global
 Hint = Climb around on Dr. Eggman's rockets. You might find something good!
-X = -5056
-Y = 1024
-Z = 4048
 MapNum = 154
 Sprite = C
 Color = SKINCOLOR_RED
@@ -960,9 +927,6 @@ Tag = 3
 Emblem 94
 Type = Global
 Hint = ???
-X = -2144
-Y = 4864
-Z = 2176
 MapNum = 154
 Sprite = D
 Color = SKINCOLOR_ORANGE
@@ -972,21 +936,21 @@ Emblem 65
 Type = Rings
 MapNum = 148
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 450
 
 Emblem 66
 Type = Score
 MapNum = 148
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 60000
 
 Emblem 67
 Type = Time
 MapNum = 154
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 225*TICRATE
 
 #Liftoff Gantry Zone Act 2
@@ -994,9 +958,6 @@ Var = 225*TICRATE
 Emblem 68
 Type = Global
 Hint = Just because a 2D segment is over doesn't mean you can't go back...
-X = 10464
-Y = 5024
-Z = 632
 MapNum = 155
 Sprite = A
 Color = SKINCOLOR_BLUE
@@ -1005,9 +966,6 @@ Tag = 1
 Emblem 69
 Type = Global
 Hint = After you try your luck in the Chance Room, don't leave too hastily!
-X = -11232
-Y = 544
-Z = 3024
 MapNum = 155
 Sprite = B
 Color = SKINCOLOR_LAVENDER
@@ -1016,9 +974,6 @@ Tag = 2
 Emblem 70
 Type = Global
 Hint = What might happen if you double around after you come out that pipe?
-X = -8832
-Y = -8224
-Z = 464
 MapNum = 155
 Sprite = C
 Color = SKINCOLOR_RED
@@ -1027,9 +982,6 @@ Tag = 3
 Emblem 71
 Type = Global
 Hint = ???
-X = 16448
-Y = 9792
-Z = 1312
 MapNum = 155
 Sprite = D
 Color = SKINCOLOR_ORANGE
@@ -1039,21 +991,21 @@ Emblem 72
 Type = Rings
 MapNum = 155
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 400
 
 Emblem 73
 Type = Score
 MapNum = 155
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 64000
 
 Emblem 74
 Type = Time
 MapNum = 155
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 330*TICRATE
 
 #Liftoff Gantry Zone Act 3
@@ -1062,7 +1014,7 @@ Emblem 75
 Type = Time
 MapNum = 156
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 50*TICRATE
 
 #Spacewalk Zone Act 1
@@ -1115,21 +1067,21 @@ Emblem 80
 Type = Rings
 MapNum = 157
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 700
 
 Emblem 81
 Type = Score
 MapNum = 157
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 83000
 
 Emblem 82
 Type = Time
 MapNum = 157
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 540*TICRATE
 
 #Spacewalk Zone Act 2
@@ -1182,21 +1134,21 @@ Emblem 87
 Type = Rings
 MapNum = 158
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 650
 
 Emblem 88
 Type = Score
 MapNum = 158
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 87000
 
 Emblem 89
 Type = Time
 MapNum = 158
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 720*TICRATE
 
 #Spacewalk Zone Act 3
@@ -1205,7 +1157,7 @@ Emblem 90
 Type = Time
 MapNum = 159
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 300*TICRATE
 
 #Alien Armageddon Zone Act 1
@@ -1258,21 +1210,21 @@ Emblem 95
 Type = Rings
 MapNum = 160
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 580
 
 Emblem 96
 Type = Score
 MapNum = 160
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 84000
 
 Emblem 97
 Type = Time
 MapNum = 160
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 390*TICRATE
 
 #Alien Armageddon Zone Act 2
@@ -1325,21 +1277,21 @@ Emblem 102
 Type = Rings
 MapNum = 161
 Sprite = R
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 480
 
 Emblem 103
 Type = Score
 MapNum = 161
 Sprite = S
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 87000
 
 Emblem 104
 Type = Time
 MapNum = 161
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 420*TICRATE
 
 #Alien Armageddon Zone Act 3
@@ -1348,7 +1300,7 @@ Emblem 105
 Type = Time
 MapNum = 162
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 170*TICRATE
 
 #Star Showdown Zone
@@ -1357,5 +1309,5 @@ Emblem 106
 Type = Time
 MapNum = 163
 Sprite = T
-Color = SKINCOLOR_YELLOW
+Color = SKINCOLOR_GOLD
 Var = 300*TICRATE
