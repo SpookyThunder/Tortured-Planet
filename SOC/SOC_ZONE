@@ -13,6 +13,8 @@ SkyNum = 2
 LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 2
+SaveGame = true
+FlickyList = Bluebird,Chipmunk,Seal
 
 Level 137
 LevelName = Sunshine Atoll
@@ -25,6 +27,8 @@ BonusType = Normal
 SkyNum = 2
 LevelSelect = 1
 RecordAttack = true
+SaveGame = true
+FlickyList = Bluebird,Chipmunk,Seal
 
 Level 138
 LevelName = Sunshine Atoll
@@ -50,6 +54,8 @@ SkyNum = 3
 LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 3
+SaveGame = true
+FlickyList = Cat,Bat,Pig
 
 Level 140
 LevelName = Eruption Conduit
@@ -62,6 +68,8 @@ BonusType = Normal
 SkyNum = 3
 LevelSelect = 1
 RecordAttack = true
+SaveGame = true
+FlickyList = Cat,Bat,Pig
 
 Level 141
 LevelName = Eruption Conduit
@@ -88,6 +96,8 @@ Weather = 1
 LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 4
+SaveGame = true
+FlickyList = Rat,Fish
 
 Level 143
 LevelName = Drowned Downtown
@@ -101,6 +111,8 @@ SkyNum = 5
 Weather = 1
 LevelSelect = 1
 RecordAttack = true
+SaveGame = true
+FlickyList = Rat,Fish
 
 Level 144
 LevelName = Drowned Downtown
@@ -128,6 +140,8 @@ Weather = 2
 LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 5
+SaveGame = true
+FlickyList = Ram,Penguin
 
 Level 146
 LevelName = Snowcap Nimbus
@@ -141,6 +155,8 @@ SkyNum = 6
 Weather = 2
 LevelSelect = 1
 RecordAttack = true
+SaveGame = true
+FlickyList = Ram,Penguin
 
 Level 147
 LevelName = Snowcap Nimbus
@@ -167,6 +183,8 @@ SkyNum = 13
 LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 6
+SaveGame = true
+FlickyList = Spider,Cow
 
 Level 149
 LevelName = Gritty Columns
@@ -179,6 +197,8 @@ BonusType = Normal
 SkyNum = 8
 LevelSelect = 1
 RecordAttack = true
+SaveGame = true
+FlickyList = Spider,Cow
 
 Level 150
 LevelName = Gritty Columns
@@ -205,6 +225,8 @@ Weather = 0
 LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 7
+SaveGame = true
+FlickyList = Canary,Puffin
 
 Level 152
 LevelName = Fume Shaft
@@ -219,6 +241,8 @@ Weather = 0
 LevelSelect = 1
 RecordAttack = true
 Hidden = false
+SaveGame = true
+FlickyList = Canary,Puffin
 
 Level 153
 LevelName = Fume Shaft
@@ -245,6 +269,8 @@ SkyNum = 9
 LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 8
+SaveGame = true
+FlickyList = Dove,Bear
 
 Level 155
 LevelName = Liftoff Gantry
@@ -257,6 +283,8 @@ BonusType = Normal
 SkyNum = 9
 LevelSelect = 1
 RecordAttack = true
+SaveGame = true
+FlickyList = Dove,Bear
 
 Level 156
 LevelName = Liftoff Gantry
@@ -264,7 +292,7 @@ Act = 3
 Keywords = LGZ3
 Music = TPBOSS
 TypeOfLevel = Singleplayer,Co-op
-NextLevel = 160
+NextLevel = 157
 BonusType = Boss
 SkyNum = 9
 LevelSelect = 1
@@ -282,6 +310,8 @@ SkyNum = 22
 LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 9
+SaveGame = true
+FlickyList = MT_SEED
 
 Level 158
 LevelName = Spacewalk
@@ -294,6 +324,8 @@ BonusType = Normal
 SkyNum = 22
 LevelSelect = 1
 RecordAttack = true
+SaveGame = true
+FlickyList = MT_SEED
 
 Level 159
 LevelName = Spacewalk
@@ -319,6 +351,8 @@ SkyNum = 54
 LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 10
+SaveGame = true
+FlickyList = MT_SEED
 
 Level 161
 LevelName = Alien Armageddon
@@ -331,6 +365,8 @@ BonusType = Normal
 SkyNum = 54
 LevelSelect = 1
 RecordAttack = true
+SaveGame = true
+FlickyList = MT_SEED
 
 Level 162
 LevelName = Alien Armageddon
@@ -356,6 +392,7 @@ SkyNum = 21
 LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 11
+SaveGame = true
 
 Level 164
 LevelName = Coast Clash
