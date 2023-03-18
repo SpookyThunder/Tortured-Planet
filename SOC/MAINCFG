@@ -932,21 +932,21 @@ Sprite = D
 Color = SKINCOLOR_ORANGE
 Tag = 4
 
-Emblem 65
+Emblem 95
 Type = Rings
-MapNum = 148
+MapNum = 154
 Sprite = R
 Color = SKINCOLOR_GOLD
 Var = 450
 
-Emblem 66
+Emblem 96
 Type = Score
-MapNum = 148
+MapNum = 154
 Sprite = S
 Color = SKINCOLOR_GOLD
 Var = 60000
 
-Emblem 67
+Emblem 97
 Type = Time
 MapNum = 154
 Sprite = T
@@ -955,7 +955,7 @@ Var = 225*TICRATE
 
 #Liftoff Gantry Zone Act 2
 
-Emblem 68
+Emblem 98
 Type = Global
 Hint = Just because a 2D segment is over doesn't mean you can't go back...
 MapNum = 155
@@ -963,7 +963,7 @@ Sprite = A
 Color = SKINCOLOR_BLUE
 Tag = 1
 
-Emblem 69
+Emblem 99
 Type = Global
 Hint = After you try your luck in the Chance Room, don't leave too hastily!
 MapNum = 155
@@ -971,7 +971,7 @@ Sprite = B
 Color = SKINCOLOR_LAVENDER
 Tag = 2
 
-Emblem 70
+Emblem 100
 Type = Global
 Hint = What might happen if you double around after you come out that pipe?
 MapNum = 155
@@ -979,7 +979,7 @@ Sprite = C
 Color = SKINCOLOR_RED
 Tag = 3
 
-Emblem 71
+Emblem 101
 Type = Global
 Hint = ???
 MapNum = 155
@@ -987,21 +987,21 @@ Sprite = D
 Color = SKINCOLOR_ORANGE
 Tag = 4
 
-Emblem 72
+Emblem 102
 Type = Rings
 MapNum = 155
 Sprite = R
 Color = SKINCOLOR_GOLD
 Var = 400
 
-Emblem 73
+Emblem 103
 Type = Score
 MapNum = 155
 Sprite = S
 Color = SKINCOLOR_GOLD
 Var = 64000
 
-Emblem 74
+Emblem 104
 Type = Time
 MapNum = 155
 Sprite = T
@@ -1010,7 +1010,7 @@ Var = 330*TICRATE
 
 #Liftoff Gantry Zone Act 3
 
-Emblem 75
+Emblem 105
 Type = Time
 MapNum = 156
 Sprite = T
@@ -1019,7 +1019,7 @@ Var = 50*TICRATE
 
 #Spacewalk Zone Act 1
 
-Emblem 76
+Emblem 106
 Type = Global
 Hint = The giant metal tubes sometimes obscure things...
 X = -2048
@@ -1030,7 +1030,7 @@ Sprite = A
 Color = SKINCOLOR_BLUE
 Tag = 1
 
-Emblem 77
+Emblem 107
 Type = Global
 Hint = Fly around the space junk with precision and care!
 X = 3328
@@ -1041,7 +1041,7 @@ Sprite = B
 Color = SKINCOLOR_LAVENDER
 Tag = 2
 
-Emblem 78
+Emblem 108
 Type = Global
 Hint = You'll need to do a fair amount of backtracking...
 X = 7616
@@ -1052,7 +1052,7 @@ Sprite = C
 Color = SKINCOLOR_RED
 Tag = 3
 
-Emblem 79
+Emblem 109
 Type = Global
 Hint = ???
 X = 5984
@@ -1063,21 +1063,21 @@ Sprite = D
 Color = SKINCOLOR_ORANGE
 Tag = 4
 
-Emblem 80
+Emblem 110
 Type = Rings
 MapNum = 157
 Sprite = R
 Color = SKINCOLOR_GOLD
 Var = 700
 
-Emblem 81
+Emblem 111
 Type = Score
 MapNum = 157
 Sprite = S
 Color = SKINCOLOR_GOLD
 Var = 83000
 
-Emblem 82
+Emblem 112
 Type = Time
 MapNum = 157
 Sprite = T
@@ -1086,7 +1086,7 @@ Var = 540*TICRATE
 
 #Spacewalk Zone Act 2
 
-Emblem 83
+Emblem 113
 Type = Global
 Hint = Fly towards this prize with exactly the right angle and speed!
 X = 24544
@@ -1097,7 +1097,7 @@ Sprite = A
 Color = SKINCOLOR_BLUE
 Tag = 1
 
-Emblem 84
+Emblem 114
 Type = Global
 Hint = Hmmmm, you can't just fly over to it. Maybe there's a secret way to get it?
 X = 17312
@@ -1108,7 +1108,7 @@ Sprite = B
 Color = SKINCOLOR_LAVENDER
 Tag = 2
 
-Emblem 85
+Emblem 115
 Type = Global
 Hint = You saw this path earlier but couldn't take it. Will you remember it later?
 X = 1872
@@ -1119,7 +1119,7 @@ Sprite = C
 Color = SKINCOLOR_RED
 Tag = 3
 
-Emblem 86
+Emblem 116
 Type = Global
 Hint = ???
 X = -288
@@ -1130,21 +1130,21 @@ Sprite = D
 Color = SKINCOLOR_ORANGE
 Tag = 4
 
-Emblem 87
+Emblem 117
 Type = Rings
 MapNum = 158
 Sprite = R
 Color = SKINCOLOR_GOLD
 Var = 650
 
-Emblem 88
+Emblem 118
 Type = Score
 MapNum = 158
 Sprite = S
 Color = SKINCOLOR_GOLD
 Var = 87000
 
-Emblem 89
+Emblem 119
 Type = Time
 MapNum = 158
 Sprite = T
@@ -1153,7 +1153,7 @@ Var = 720*TICRATE
 
 #Spacewalk Zone Act 3
 
-Emblem 90
+Emblem 120
 Type = Time
 MapNum = 159
 Sprite = T
@@ -1162,7 +1162,7 @@ Var = 300*TICRATE
 
 #Alien Armageddon Zone Act 1
 
-Emblem 91
+Emblem 121
 Type = Global
 Hint = You'll need to bust into the pipe somehow...
 X = -6912
@@ -1173,7 +1173,7 @@ Sprite = A
 Color = SKINCOLOR_BLUE
 Tag = 1
 
-Emblem 92
+Emblem 122
 Type = Global
 Hint = When it's almost over, explore a little before entering the castle!
 X = 13472
@@ -1184,7 +1184,7 @@ Sprite = B
 Color = SKINCOLOR_LAVENDER
 Tag = 2
 
-Emblem 93
+Emblem 123
 Type = Global
 Hint = Never forget to scale the walls, even nondescript ones!
 X = -16000
@@ -1195,7 +1195,7 @@ Sprite = C
 Color = SKINCOLOR_RED
 Tag = 3
 
-Emblem 94
+Emblem 124
 Type = Global
 Hint = ???
 X = -13984
@@ -1206,21 +1206,21 @@ Sprite = D
 Color = SKINCOLOR_ORANGE
 Tag = 4
 
-Emblem 95
+Emblem 125
 Type = Rings
 MapNum = 160
 Sprite = R
 Color = SKINCOLOR_GOLD
 Var = 580
 
-Emblem 96
+Emblem 126
 Type = Score
 MapNum = 160
 Sprite = S
 Color = SKINCOLOR_GOLD
 Var = 84000
 
-Emblem 97
+Emblem 127
 Type = Time
 MapNum = 160
 Sprite = T
@@ -1229,7 +1229,7 @@ Var = 390*TICRATE
 
 #Alien Armageddon Zone Act 2
 
-Emblem 98
+Emblem 128
 Type = Global
 Hint = Dr. Eggman would appreciate you not jumping around on his bookshelves...
 X = -16544
@@ -1240,7 +1240,7 @@ Sprite = A
 Color = SKINCOLOR_BLUE
 Tag = 1
 
-Emblem 99
+Emblem 129
 Type = Global
 Hint = O'er the ramparts we didn't watch, we were too busy hunting for secrets...
 X = -192
@@ -1251,7 +1251,7 @@ Sprite = B
 Color = SKINCOLOR_LAVENDER
 Tag = 2
 
-Emblem 100
+Emblem 130
 Type = Global
 Hint = When you step outside, be sure to climb up, and not just for the view!
 X = -2688
@@ -1262,7 +1262,7 @@ Sprite = C
 Color = SKINCOLOR_RED
 Tag = 3
 
-Emblem 101
+Emblem 131
 Type = Global
 Hint = ???
 X = 7200
@@ -1273,21 +1273,21 @@ Sprite = D
 Color = SKINCOLOR_ORANGE
 Tag = 4
 
-Emblem 102
+Emblem 132
 Type = Rings
 MapNum = 161
 Sprite = R
 Color = SKINCOLOR_GOLD
 Var = 480
 
-Emblem 103
+Emblem 133
 Type = Score
 MapNum = 161
 Sprite = S
 Color = SKINCOLOR_GOLD
 Var = 87000
 
-Emblem 104
+Emblem 134
 Type = Time
 MapNum = 161
 Sprite = T
@@ -1296,7 +1296,7 @@ Var = 420*TICRATE
 
 #Alien Armageddon Zone Act 3
 
-Emblem 105
+Emblem 135
 Type = Time
 MapNum = 162
 Sprite = T
@@ -1305,7 +1305,7 @@ Var = 170*TICRATE
 
 #Star Showdown Zone
 
-Emblem 106
+Emblem 136
 Type = Time
 MapNum = 163
 Sprite = T
