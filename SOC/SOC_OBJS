@@ -14,7 +14,6 @@ S_BB_RECOVER1
 S_BB_RECOVER2
 SPR_BLEC
 
-
 Object MT_BBOUNCER
 MapThingNum = 126
 SpawnState = S_BB_WAIT1
