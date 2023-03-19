@@ -1022,9 +1022,6 @@ Var = 50*TICRATE
 Emblem 106
 Type = Global
 Hint = The giant metal tubes sometimes obscure things...
-X = -2048
-Y = -5888
-Z = 3104
 MapNum = 157
 Sprite = A
 Color = SKINCOLOR_BLUE
@@ -1033,9 +1030,6 @@ Tag = 1
 Emblem 107
 Type = Global
 Hint = Fly around the space junk with precision and care!
-X = 3328
-Y = 5088
-Z = 1888
 MapNum = 157
 Sprite = B
 Color = SKINCOLOR_LAVENDER
@@ -1044,9 +1038,6 @@ Tag = 2
 Emblem 108
 Type = Global
 Hint = You'll need to do a fair amount of backtracking...
-X = 7616
-Y = 3680
-Z = 4048
 MapNum = 157
 Sprite = C
 Color = SKINCOLOR_RED
@@ -1055,9 +1046,6 @@ Tag = 3
 Emblem 109
 Type = Global
 Hint = ???
-X = 5984
-Y = -2656
-Z = 4032
 MapNum = 157
 Sprite = D
 Color = SKINCOLOR_ORANGE
@@ -1089,9 +1077,6 @@ Var = 540*TICRATE
 Emblem 113
 Type = Global
 Hint = Fly towards this prize with exactly the right angle and speed!
-X = 24544
-Y = -8656
-Z = 3584
 MapNum = 158
 Sprite = A
 Color = SKINCOLOR_BLUE
@@ -1100,9 +1085,6 @@ Tag = 1
 Emblem 114
 Type = Global
 Hint = Hmmmm, you can't just fly over to it. Maybe there's a secret way to get it?
-X = 17312
-Y = 8448
-Z = 2144
 MapNum = 158
 Sprite = B
 Color = SKINCOLOR_LAVENDER
@@ -1111,9 +1093,6 @@ Tag = 2
 Emblem 115
 Type = Global
 Hint = You saw this path earlier but couldn't take it. Will you remember it later?
-X = 1872
-Y = 14736
-Z = 3808
 MapNum = 158
 Sprite = C
 Color = SKINCOLOR_RED
@@ -1122,9 +1101,6 @@ Tag = 3
 Emblem 116
 Type = Global
 Hint = ???
-X = -288
-Y = 18176
-Z = 4032
 MapNum = 158
 Sprite = D
 Color = SKINCOLOR_ORANGE
@@ -1165,9 +1141,6 @@ Var = 300*TICRATE
 Emblem 121
 Type = Global
 Hint = You'll need to bust into the pipe somehow...
-X = -6912
-Y = 26112
-Z = 392
 MapNum = 160
 Sprite = A
 Color = SKINCOLOR_BLUE
@@ -1176,9 +1149,6 @@ Tag = 1
 Emblem 122
 Type = Global
 Hint = When it's almost over, explore a little before entering the castle!
-X = 13472
-Y = 6144
-Z = 4448
 MapNum = 160
 Sprite = B
 Color = SKINCOLOR_LAVENDER
@@ -1187,9 +1157,6 @@ Tag = 2
 Emblem 123
 Type = Global
 Hint = Never forget to scale the walls, even nondescript ones!
-X = -16000
-Y = 13952
-Z = 4048
 MapNum = 160
 Sprite = C
 Color = SKINCOLOR_RED
@@ -1198,9 +1165,6 @@ Tag = 3
 Emblem 124
 Type = Global
 Hint = ???
-X = -13984
-Y = 11424
-Z = 2144
 MapNum = 160
 Sprite = D
 Color = SKINCOLOR_ORANGE
@@ -1232,9 +1196,6 @@ Var = 390*TICRATE
 Emblem 128
 Type = Global
 Hint = Dr. Eggman would appreciate you not jumping around on his bookshelves...
-X = -16544
-Y = 5760
-Z = 2080
 MapNum = 161
 Sprite = A
 Color = SKINCOLOR_BLUE
@@ -1243,9 +1204,6 @@ Tag = 1
 Emblem 129
 Type = Global
 Hint = O'er the ramparts we didn't watch, we were too busy hunting for secrets...
-X = -192
-Y = 480
-Z = 3872
 MapNum = 161
 Sprite = B
 Color = SKINCOLOR_LAVENDER
@@ -1254,9 +1212,6 @@ Tag = 2
 Emblem 130
 Type = Global
 Hint = When you step outside, be sure to climb up, and not just for the view!
-X = -2688
-Y = 12608
-Z = 4048
 MapNum = 161
 Sprite = C
 Color = SKINCOLOR_RED
@@ -1265,9 +1220,6 @@ Tag = 3
 Emblem 131
 Type = Global
 Hint = ???
-X = 7200
-Y = -10720
-Z = 1920
 MapNum = 161
 Sprite = D
 Color = SKINCOLOR_ORANGE
