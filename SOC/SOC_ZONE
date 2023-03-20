@@ -41,6 +41,10 @@ BonusType = Boss
 SkyNum = 2
 LevelSelect = 1
 RecordAttack = true
+StartRings = 10
+ForceResetMusic = On
+WarningTitle = true
+FlickyList = Bluebird,Chipmunk,Seal
 
 Level 139
 LevelName = Eruption Conduit
@@ -82,6 +86,10 @@ BonusType = Boss
 SkyNum = 3
 LevelSelect = 1
 RecordAttack = true
+StartRings = 10
+ForceResetMusic = On
+WarningTitle = true
+FlickyList = Cat,Bat,Pig
 
 Level 142
 LevelName = Drowned Downtown
@@ -97,7 +105,7 @@ LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 4
 SaveGame = true
-FlickyList = Rat,Fish
+FlickyList = Rat,Fish,Fish,Fish
 
 Level 143
 LevelName = Drowned Downtown
@@ -112,7 +120,7 @@ Weather = 1
 LevelSelect = 1
 RecordAttack = true
 SaveGame = true
-FlickyList = Rat,Fish
+FlickyList = Rat,Fish,Fish,Fish
 
 Level 144
 LevelName = Drowned Downtown
@@ -126,6 +134,10 @@ SkyNum = 5
 Weather = 1
 LevelSelect = 1
 RecordAttack = true
+StartRings = 10
+ForceResetMusic = On
+WarningTitle = true
+FlickyList = Rat,Fish,Fish,Fish
 
 Level 145
 LevelName = Snowcap Nimbus
@@ -170,6 +182,10 @@ SkyNum = 6
 Weather = 2
 LevelSelect = 1
 RecordAttack = true
+StartRings = 10
+ForceResetMusic = On
+WarningTitle = true
+FlickyList = Ram,Penguin
 
 Level 148
 LevelName = Gritty Columns
@@ -211,6 +227,10 @@ BonusType = Boss
 SkyNum = 13
 LevelSelect = 1
 RecordAttack = true
+StartRings = 10
+ForceResetMusic = On
+WarningTitle = true
+FlickyList = Spider,Cow
 
 Level 151
 LevelName = Fume Shaft
@@ -256,6 +276,10 @@ SkyNum = 7
 Weather = 0
 LevelSelect = 1
 RecordAttack = true
+StartRings = 10
+ForceResetMusic = On
+WarningTitle = true
+FlickyList = Canary,Puffin
 
 Level 154
 LevelName = Liftoff Gantry
@@ -297,6 +321,10 @@ BonusType = Boss
 SkyNum = 9
 LevelSelect = 1
 RecordAttack = true
+StartRings = 10
+ForceResetMusic = On
+WarningTitle = true
+FlickyList = Dove,Bear
 
 Level 157
 LevelName = Spacewalk
@@ -338,6 +366,10 @@ BonusType = Boss
 SkyNum = 22
 LevelSelect = 1
 RecordAttack = true
+StartRings = 10
+ForceResetMusic = On
+WarningTitle = true
+FlickyList = MT_SEED
 
 Level 160
 LevelName = Alien Armageddon
@@ -379,6 +411,10 @@ BonusType = Boss
 SkyNum = 54
 LevelSelect = 1
 RecordAttack = true
+StartRings = 10
+ForceResetMusic = On
+WarningTitle = true
+FlickyList = MT_SEED
 
 Level 163
 LevelName = Star Showdown
@@ -393,6 +429,10 @@ LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 11
 SaveGame = true
+StartRings = 10
+ForceResetMusic = On
+WarningTitle = true
+FlickyList = MT_SEED
 
 Level 164
 LevelName = Coast Clash

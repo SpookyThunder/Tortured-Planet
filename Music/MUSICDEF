@@ -1,0 +1,122 @@
+Lump SAZ1
+Title = Sunshine_Atoll_1
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump SAZ2
+Title = Sunshine_Atoll_2
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump ECZ1
+Title = Eruption_Cond._1
+Alttitle = Eruption_Conduit_1
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump ECZ2
+Title = Eruption_Cond._2
+Alttitle = Eruption_Conduit_2
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump DDZ1
+Title = Drowned_Dt._1
+Alttitle = Drowned_Downtown_2
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump DDZ2
+Title = Drowned_Dt._2
+Alttitle = Drowned_Downtown_2
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump SNZ
+Title = Snowcap_Nimbus
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump GCZ1
+Title = Gritty_Columns_1
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump GCZ2
+Title = Gritty_Columns_2
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump FSZ1
+Title = Fume_Shaft_1
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump FSZ2
+Title = Fume_Shaft_2
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump LGZ1
+Title = Liftoff_Gantry_1
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump LGZ2
+Title = Liftoff_Gantry_2
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump SWZ
+Title = Spacewalk
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump AAZ
+Title = Alien_Armageddon
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump TPBOSS
+Title = High_Voltage
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump TPCUTS
+Title = Cutscene
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121

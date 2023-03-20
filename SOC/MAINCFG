@@ -28,7 +28,7 @@ TitleScrollSpeed = 3
 IntroToPlay = 1
 UseBlackRock = false
 CustomVersion = v11
-GameData = smoll.dat
+GameData = smfl_torturedplanet.dat
 
 Clear All
 
@@ -112,6 +112,13 @@ Var = 179
 ConditionSet = 9
 Height = 100
 
+Unlockable 11
+Name = Sound Test
+Objective = Defeat the first boss
+Type = SoundTest
+Height = 110
+ConditionSet = 15
+
 #Global Emblems
 
 ExtraEmblem 1
@@ -177,6 +184,9 @@ Condition1 = GameClear 2
 
 ConditionSet 14
 Condition1 = GameClear 3
+
+ConditionSet 15
+Condition1 = MapBeaten 138
 
 
 # -------------------------------------------- #
