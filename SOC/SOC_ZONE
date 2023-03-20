@@ -973,3 +973,55 @@ SkyNum = 99
 Unlockable = 13
 Hidden = true
 Grades1 = 70000,75000,80000,85000,90000,160000
+
+# Multiplayer special stages, taken directly from zones.pk3
+
+Level 60
+LevelName = MP Special Stage 1
+Music = SPEC1
+TypeOfLevel = Singleplayer,Co-op
+SelectHeading = MP Special Stages
+SkyNum = 1
+
+Level 61
+LevelName = MP Special Stage 2
+Music = SPEC2
+TypeOfLevel = Singleplayer,Co-op
+SelectHeading = MP Special Stages
+SkyNum = 4
+
+Level 62
+LevelName = MP Special Stage 3
+Music = SPEC3
+TypeOfLevel = Singleplayer,Co-op
+SelectHeading = MP Special Stages
+SkyNum = 8
+
+Level 63
+LevelName = MP Special Stage 4
+Music = SPEC4
+TypeOfLevel = Singleplayer,Co-op
+SelectHeading = MP Special Stages
+Weather = 1
+SkyNum = 10
+
+Level 64
+LevelName = MP Special Stage 5
+Music = SPEC5
+TypeOfLevel = Singleplayer,Co-op
+SelectHeading = MP Special Stages
+SkyNum = 13
+
+Level 65
+LevelName = MP Special Stage 6
+Music = SPEC6
+TypeOfLevel = Singleplayer,Co-op
+SelectHeading = MP Special Stages
+SkyNum = 20
+
+Level 66
+LevelName = MP Special Stage 7
+Music = SPEC7
+TypeOfLevel = Singleplayer,Co-op
+SelectHeading = MP Special Stages
+SkyNum = 22
