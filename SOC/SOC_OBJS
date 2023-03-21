@@ -3,48 +3,39 @@
 
 Freeslot
 MT_BBOUNCER
-S_BB_WAIT1
-S_BB_WAIT2
+S_BB_WAIT
 S_BB_HOP
 S_BB_SLIME
 S_BB_LAND
-S_BB_PAIN1
-S_BB_PAIN2
-S_BB_RECOVER1
-S_BB_RECOVER2
+S_BB_PAIN
 SPR_BLEC
 
 Object MT_BBOUNCER
-MapThingNum = 126
-SpawnState = S_BB_WAIT1
+MapThingNum = 4013
+SpawnState = S_BB_WAIT
 SpawnHealth = 2
 SeeState = S_BB_HOP
 SeeSound = sfx_bnce2
 ReactionTime = 10
-PainState = S_BB_PAIN1
+PainState = S_BB_PAIN
 PainSound = sfx_dmpain
 PainChance = 200
-DeathState = S_XPLD1
+DeathState = S_XPLD_FLICKY
 DeathSound = sfx_pop
 Speed = 100000
 Radius = 16*FRACUNIT
 Height = 64*FRACUNIT
 Mass = 100
 Flags = MF_SPECIAL|MF_SHOOTABLE|MF_BOUNCE|MF_ENEMY
+#$Name Blecch Bouncer
+#$Sprite BLECA1
 
-State S_BB_WAIT1
+State S_BB_WAIT
 SpriteName = BLEC
 SpriteFrame = A
 Action = A_Look
 Duration = 1
-Next = S_BB_WAIT2
-
-State S_BB_WAIT2
-SpriteName = BLEC
-SpriteFrame = A
-Action = A_Look
-Duration = 1
-Next = S_BB_WAIT1
+Next = S_BB_WAIT
 
 State S_BB_HOP
 SpriteName = BLEC
@@ -68,40 +59,14 @@ SpriteName = BLEC
 SpriteFrame = A
 Action = A_FaceTarget
 Duration = 10
-Next = S_BB_WAIT2
+Next = S_BB_WAIT
 
-State S_BB_PAIN1
-SpriteName = BLEC
-SpriteFrame = C
-Action = A_SetObjectFlags
-Var1 = MF_SHOOTABLE
-Var2 = 1
-Duration = 1
-Next = S_BB_PAIN2
-
-State S_BB_PAIN2
+State S_BB_PAIN
 SpriteName = BLEC
 SpriteFrame = C
 Action = A_Pain
-Duration = 1
-Next = S_BB_RECOVER1
-
-State S_BB_RECOVER1
-SpriteName = BLEC
-SpriteFrame = C
-Action = A_BunnyHop
-Var1 = 10
-Duration = 20
-Next = S_BB_RECOVER2
-
-State S_BB_RECOVER2
-SpriteName = BLEC
-SpriteFrame = C
-Action = A_SetObjectFlags
-Var1 = MF_SHOOTABLE
-Var2 = 2
-Duration = 1
-Next = S_BB_SLIME
+Duration = 35
+Next = S_BB_WAIT
 
 State S_GOOP3
 Duration = 500
