@@ -888,93 +888,87 @@ SkyNum = 9
 Hidden = true
 PreCutsceneNum = 13
 
-#Special Stage level headers redefined
+#Special Stages
 
 Level 50
 LevelName = Floral Field
-Subtitle = SPECIAL STAGE 1
-NoZone = true
+Subtitle = Special Stage 1
 Music = SPEC1
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
+SelectHeading = Special Stages
 SkyNum = 1
-Grades1 = 45000,70000,90000,100000,125000,200000
+Grades1 = 0,20000,30000,90000,180000,260000
 
 Level 51
 LevelName = Toxic Plateau
-Subtitle = SPECIAL STAGE 2
-NoZone = true
+Subtitle = Special Stage 2
 Music = SPEC2
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
-SkyNum = 4
-Grades1 = 90000,100000,110000,125000,150000,225000
+SelectHeading = Special Stages
+SkyNum = 12
+Grades1 = 0,35000,50000,100000,190000,300000
 
 Level 52
 LevelName = Flooded Cove
-Subtitle = SPECIAL STAGE 3
-NoZone = true
+Subtitle = Special Stage 3
 Music = SPEC3
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
-SkyNum = 7
-Grades1 = 60000,70000,75000,85000,100000,210000
+SelectHeading = Special Stages
+SkyNum = 8
+Grades1 = 0,70000,90000,180000,270000,360000
 
 Level 53
 LevelName = Cavern Fortress
-Subtitle = SPECIAL STAGE 4
-NoZone = true
+Subtitle = Special Stage 4
 Music = SPEC4
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
+SelectHeading = Special Stages
 Weather = 1
 SkyNum = 10
-Grades1 = 50000,75000,90000,100000,125000,200000
+Grades1 = 0,40000,60000,140000,240000,300000
 
 Level 54
 LevelName = Dusty Wasteland
-Subtitle = SPECIAL STAGE 5
-NoZone = true
+Subtitle = Special Stage 5
 Music = SPEC5
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
-SkyNum = 13
-Grades1 = 25000,30000,32500,35000,45000,75000
+SelectHeading = Special Stages
+SkyNum = 15
+Grades1 = 0,35000,50000,80000,120000,150000
 
 Level 55
 LevelName = Magma Caves
-Subtitle = SPECIAL STAGE 6
-NoZone = true
+Subtitle = Special Stage 6
 Music = SPEC6
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
-SkyNum = 11
-Grades1 = 70000,75000,80000,90000,100000,125000
+SelectHeading = Special Stages
+SkyNum = 20
+Grades1 = 0,30000,45000,60000,90000,110000
 
 Level 56
 LevelName = Egg Satellite
-Subtitle = SPECIAL STAGE 7
-NoZone = true
+Subtitle = Special Stage 7
 Music = SPEC7
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
+SelectHeading = Special Stages
 SkyNum = 22
-Grades1 = 70000,75000,80000,85000,90000,160000
+Grades1 = 0,60000,70000,80000,90000,140000
 
 Level 57
-LevelName = Black Hole
-Subtitle = SPECIAL STAGE 8
+LevelName = no hyper for you
+Subtitle = lmao get bugged scrub
 NoZone = true
-Music = SPEC8
-TypeOfLevel = Singleplayer,NiGHTS
-NiGHTSAttack = true
-NoVisitNeeded = true
-SkyNum = 99
-Unlockable = 13
-Hidden = true
-Grades1 = 70000,75000,80000,85000,90000,160000
+Music = FFZ
+TypeOfLevel = Singleplayer
 
-# Multiplayer special stages, taken directly from zones.pk3
+# Multiplayer special stages
 
 Level 60
 LevelName = MP Special Stage 1

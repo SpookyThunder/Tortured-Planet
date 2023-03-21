@@ -1,6 +1,7 @@
 
-	-- SRB1 Spike enemy --
+	-- SRB1 Spike enemy
 
+// SOC stuff
 freeslot("MT_SRB1SPIK", "S_SRBSPIK_IDLE", "SPR_SRBL")
 
 mobjinfo[MT_SRB1SPIK] = {

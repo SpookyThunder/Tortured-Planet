@@ -119,6 +119,13 @@ Type = SoundTest
 Height = 110
 ConditionSet = 15
 
+Unlockable 11
+Name = NiGHTS mode
+Objective = Collect the first emerald
+Type = NightsMode
+Height = 120
+ConditionSet = 16
+
 #Global Emblems
 
 ExtraEmblem 1
@@ -187,6 +194,9 @@ Condition1 = GameClear 3
 
 ConditionSet 15
 Condition1 = MapBeaten 138
+
+ConditionSet 15
+Condition1 = MapBeaten 60
 
 
 # -------------------------------------------- #
