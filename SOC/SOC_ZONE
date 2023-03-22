@@ -893,7 +893,7 @@ PreCutsceneNum = 13
 Level 50
 LevelName = Floral Field
 Subtitle = Special Stage 1
-Music = SPEC1
+Music = MP_COA
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
 SelectHeading = Special Stages
@@ -903,17 +903,17 @@ Grades1 = 0,20000,30000,90000,180000,260000
 Level 51
 LevelName = Toxic Plateau
 Subtitle = Special Stage 2
-Music = SPEC2
+Music = VSALT
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
 SelectHeading = Special Stages
-SkyNum = 12
+SkyNum = 4
 Grades1 = 0,35000,50000,100000,190000,300000
 
 Level 52
 LevelName = Flooded Cove
 Subtitle = Special Stage 3
-Music = SPEC3
+Music = MP_WT2
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
 SelectHeading = Special Stages
@@ -923,7 +923,7 @@ Grades1 = 0,70000,90000,180000,270000,360000
 Level 53
 LevelName = Cavern Fortress
 Subtitle = Special Stage 4
-Music = SPEC4
+Music = MP_RAI
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
 SelectHeading = Special Stages
@@ -934,27 +934,27 @@ Grades1 = 0,40000,60000,140000,240000,300000
 Level 54
 LevelName = Dusty Wasteland
 Subtitle = Special Stage 5
-Music = SPEC5
+Music = MP_GL2
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
 SelectHeading = Special Stages
-SkyNum = 15
+SkyNum = 13
 Grades1 = 0,35000,50000,80000,120000,150000
 
 Level 55
 LevelName = Magma Caves
 Subtitle = Special Stage 6
-Music = SPEC6
+Music = MP_FIR
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
 SelectHeading = Special Stages
-SkyNum = 20
+SkyNum = 11
 Grades1 = 0,30000,45000,60000,90000,110000
 
 Level 56
 LevelName = Egg Satellite
 Subtitle = Special Stage 7
-Music = SPEC7
+Music = MP_MRZ
 TypeOfLevel = Singleplayer,NiGHTS
 NiGHTSAttack = true
 SelectHeading = Special Stages
@@ -972,28 +972,28 @@ TypeOfLevel = Singleplayer
 
 Level 60
 LevelName = MP Special Stage 1
-Music = SPEC1
+Music = MP_COA
 TypeOfLevel = Singleplayer,Co-op
 SelectHeading = MP Special Stages
 SkyNum = 1
 
 Level 61
 LevelName = MP Special Stage 2
-Music = SPEC2
+Music = VSALT
 TypeOfLevel = Singleplayer,Co-op
 SelectHeading = MP Special Stages
 SkyNum = 4
 
 Level 62
 LevelName = MP Special Stage 3
-Music = SPEC3
+Music = MP_WT2
 TypeOfLevel = Singleplayer,Co-op
 SelectHeading = MP Special Stages
 SkyNum = 8
 
 Level 63
 LevelName = MP Special Stage 4
-Music = SPEC4
+Music = MP_RAI
 TypeOfLevel = Singleplayer,Co-op
 SelectHeading = MP Special Stages
 Weather = 1
@@ -1001,21 +1001,21 @@ SkyNum = 10
 
 Level 64
 LevelName = MP Special Stage 5
-Music = SPEC5
+Music = MP_GL2
 TypeOfLevel = Singleplayer,Co-op
 SelectHeading = MP Special Stages
 SkyNum = 13
 
 Level 65
 LevelName = MP Special Stage 6
-Music = SPEC6
+Music = MP_FIR
 TypeOfLevel = Singleplayer,Co-op
 SelectHeading = MP Special Stages
 SkyNum = 20
 
 Level 66
 LevelName = MP Special Stage 7
-Music = SPEC7
+Music = MP_MRZ
 TypeOfLevel = Singleplayer,Co-op
 SelectHeading = MP Special Stages
 SkyNum = 22
