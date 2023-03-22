@@ -120,3 +120,17 @@ Authors = Charybdizs
 Soundtestpage = 1
 Soundtestcond = 0
 BPM = 121
+
+Lump TPBRAK
+Title = VS_Brak
+Authors = Super_Phanto
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump _SHOES
+Title = Speed_shoes
+Authors = Super_Phanto
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
