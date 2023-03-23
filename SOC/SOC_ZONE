@@ -198,7 +198,7 @@ BonusType = Normal
 SkyNum = 13
 LevelSelect = 1
 RecordAttack = true
-#PreCutsceneNum = 6
+PreCutsceneNum = 6
 SaveGame = true
 FlickyList = Spider,Cow
 

@@ -5,7 +5,9 @@
 
 local GATORRANGE = 700		-- How far the gator will look for players
 local GATORAGGRO = 300		-- Range at which the gator starts preparing their dash
-local GATORCHARG = 2		-- How many times the gator can charge before getting tired
+local GATORCHARG = 3		-- How many times the gator can charge before getting tired
+local GATORRECHA = 18		-- Down time between each dash
+local GATORTIRED = 105		-- How many tics before the gator can spot a player again
 
 // SOC stuff
 freeslot("MT_S2GATOR",
@@ -25,6 +27,9 @@ mobjinfo[MT_S2GATOR] = {
 	--$Name Gator
 	--$Sprite GATOA1
 }
+
+sfxinfo[sfx_s249].caption = "Spotted!"
+sfxinfo[sfx_cdfm35].caption = "Dashing"
 
 // Idle
 states[S_GATOR_IDLE] = {
@@ -69,7 +74,7 @@ states[S_GATOR_RECHARGE] = {
 	frame = FF_ANIMATE|A,
 	var1 = 5,
     var2 = 1,
-	tics = 25,
+	tics = GATORRECHA,
 	nextstate = S_GATOR_CHARGE
 }
 
@@ -77,7 +82,7 @@ states[S_GATOR_RECHARGE] = {
 states[S_GATOR_TIRED] = {
 	sprite = SPR_GATO,
 	frame = A,
-	tics = 105,
+	tics = GATORTIRED,
 	nextstate = S_GATOR_IDLE
 }
 
@@ -85,7 +90,7 @@ states[S_GATOR_TIRED] = {
 local function GatorReset(mo)
 	mo.state = S_GATOR_IDLE
 	mo.target = nil
-	mo.charges = 2
+	mo.charges = GATORCHARG
 end
 
 addHook("MobjThinker", function(mo)
@@ -96,10 +101,11 @@ addHook("MobjThinker", function(mo)
 
 	// Gator is staring at a player. If the player gets closer, charge 'em. Otherwise go back to idling.
 	if mo.state == S_GATOR_LEER
-		mo.charges = 2 --Recharge our max number of charges in the staring phase
+		mo.charges = GATORCHARG --Recharge our max number of charges in the staring phase
 
 		if not mo.aha then
 			local excla = P_SpawnMobjFromMobj(mo, 0, 0, mo.height+mo.height/3, MT_UNKNOWN)
+			if (mo.flags2 & MF2_OBJECTFLIP) then excla.flags2 = $|MF2_OBJECTFLIP end
 			excla.frame = 3
 			excla.sprite = SPR_WHAT
 			excla.scale = 1
@@ -160,3 +166,25 @@ addHook("MobjThinker", function(mo)
 	end
 
 end, MT_S2GATOR)
+
+addHook("TouchSpecial", function(mo, pmo)
+	if not pmo or not pmo.valid or not mo.valid return end
+	if not pmo.player or not pmo.player.valid return end
+
+	// Damage players on the same level as the gator, unless they are super or invulnerable
+	if (pmo.z - mo.z)/FRACUNIT > 26 or (pmo.z - mo.z)/FRACUNIT < 0 return
+	else
+		if pmo.player.powers[pw_super] or pmo.player.powers[pw_invulnerability] or pmo.player.powers[pw_flashing] return end
+		P_DamageMobj(pmo, mo, mo)
+	end
+end, MT_S2GATOR)
+
+addHook("MobjThinker", function(mo)
+	if not mo.valid return end
+	
+	// Make our exclamation point fade out after being created
+	if mo.sprite == SPR_WHAT and mo.fuse < 6 
+		mo.frame = $+FF_TRANS20
+		mo.z = $ + (3 * FRACUNIT * P_MobjFlip(mo))
+	end
+end, MT_UNKNOWN)
