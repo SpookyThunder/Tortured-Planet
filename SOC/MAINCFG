@@ -23,9 +23,10 @@
 MainCfg
 SpStage_Start = 136
 TitleMap = 0
-TitlePicsMode = Old
 TitleScrollSpeed = 3
 IntroToPlay = 1
+NumDemos = 0
+TitlePicsMode = Old
 UseBlackRock = false
 CustomVersion = v11
 GameData = smfl_torturedplanet.dat
@@ -126,27 +127,50 @@ Type = NightsMode
 Height = 120
 ConditionSet = 16
 
+Unlockable 12
+Type = None
+Name = Fang
+ConditionSet = -1
+
+Unlockable 13
+Type = None
+Name = Metal Sonic
+ConditionSet = -1
+
+Unlockable 14
+Type = None
+Name = Amy
+ConditionSet = -1
+
 #Global Emblems
 
 ExtraEmblem 1
 Name = Three Hour Torture
 Objective = Log 3 hours of play
 ConditionSet = 3
+Sprite = O
+Color = SKINCOLOR_EMERALD
 
 ExtraEmblem 2
 Name = Ring Master
 Objective = 8000 Rings Total
 ConditionSet = 10
+Sprite = R
+Color = SKINCOLOR_EMERALD
 
 ExtraEmblem 3
 Name = Score Master
 Objective = 1150000 Score Total
 ConditionSet = 11
+Sprite = S
+Color = SKINCOLOR_EMERALD
 
 ExtraEmblem 4
 Name = Time Master
 Objective = 90 Min Time Attack
 ConditionSet = 12
+Sprite = T
+Color = SKINCOLOR_EMERALD
 
 #Condition Sets
 

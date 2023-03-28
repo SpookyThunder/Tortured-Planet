@@ -432,6 +432,7 @@ SaveGame = true
 StartRings = 10
 ForceResetMusic = On
 WarningTitle = true
+BonusType = Boss
 FlickyList = MT_SEED
 
 Level 164
