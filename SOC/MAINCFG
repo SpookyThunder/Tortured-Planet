@@ -267,7 +267,7 @@ Type = Rings
 MapNum = 136
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 330
+Var = 250
 
 Emblem 6
 Type = Score
@@ -322,7 +322,7 @@ Type = Rings
 MapNum = 137
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 450
+Var = 330
 
 Emblem 13
 Type = Score
@@ -386,7 +386,7 @@ Type = Rings
 MapNum = 139
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 380
+Var = 280
 
 Emblem 21
 Type = Score
@@ -441,7 +441,7 @@ Type = Rings
 MapNum = 140
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 350
+Var = 280
 
 Emblem 28
 Type = Score
@@ -505,7 +505,7 @@ Type = Rings
 MapNum = 142
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 440
+Var = 300
 
 Emblem 36
 Type = Score
@@ -560,14 +560,14 @@ Type = Rings
 MapNum = 143
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 550
+Var = 320
 
 Emblem 43
 Type = Score
 MapNum = 143
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 75000
+Var = 65000
 
 Emblem 44
 Type = Time
@@ -624,7 +624,7 @@ Type = Rings
 MapNum = 145
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 600
+Var = 320
 
 Emblem 51
 Type = Score
@@ -679,7 +679,7 @@ Type = Rings
 MapNum = 146
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 450
+Var = 320
 
 Emblem 58
 Type = Score
@@ -743,7 +743,7 @@ Type = Rings
 MapNum = 148
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 500
+Var = 300
 
 Emblem 66
 Type = Score
@@ -798,7 +798,7 @@ Type = Rings
 MapNum = 149
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 400
+Var = 300
 
 Emblem 73
 Type = Score
@@ -862,7 +862,7 @@ Type = Rings
 MapNum = 151
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 360
+Var = 300
 
 Emblem 81
 Type = Score
@@ -917,7 +917,7 @@ Type = Rings
 MapNum = 152
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 360
+Var = 300
 
 Emblem 88
 Type = Score
@@ -981,7 +981,7 @@ Type = Rings
 MapNum = 154
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 400
+Var = 290
 
 Emblem 96
 Type = Score
@@ -1036,7 +1036,7 @@ Type = Rings
 MapNum = 155
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 400
+Var = 290
 
 Emblem 103
 Type = Score
@@ -1100,7 +1100,7 @@ Type = Rings
 MapNum = 157
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 550
+Var = 390
 
 Emblem 111
 Type = Score
@@ -1155,7 +1155,7 @@ Type = Rings
 MapNum = 158
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 600
+Var = 390
 
 Emblem 118
 Type = Score
@@ -1219,7 +1219,7 @@ Type = Rings
 MapNum = 160
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 530
+Var = 390
 
 Emblem 126
 Type = Score
@@ -1274,7 +1274,7 @@ Type = Rings
 MapNum = 161
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 430
+Var = 390
 
 Emblem 133
 Type = Score
