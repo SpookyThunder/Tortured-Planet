@@ -631,7 +631,7 @@ Type = Score
 MapNum = 145
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 80000
+Var = 60000
 
 Emblem 52
 Type = Time
@@ -686,7 +686,7 @@ Type = Score
 MapNum = 146
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 67000
+Var = 65000
 
 Emblem 59
 Type = Time
@@ -750,7 +750,7 @@ Type = Score
 MapNum = 148
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 73000
+Var = 70000
 
 Emblem 67
 Type = Time
@@ -805,7 +805,7 @@ Type = Score
 MapNum = 149
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 56000
+Var = 55000
 
 Emblem 74
 Type = Time
