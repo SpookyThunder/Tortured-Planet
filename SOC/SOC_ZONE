@@ -200,7 +200,7 @@ LevelSelect = 1
 RecordAttack = true
 PreCutsceneNum = 6
 SaveGame = true
-FlickyList = Spider,Cow
+FlickyList = Spider,Cat
 
 Level 149
 LevelName = Gritty Columns
@@ -214,7 +214,7 @@ SkyNum = 8
 LevelSelect = 1
 RecordAttack = true
 SaveGame = true
-FlickyList = Spider,Cow
+FlickyList = Spider,Cat
 
 Level 150
 LevelName = Gritty Columns

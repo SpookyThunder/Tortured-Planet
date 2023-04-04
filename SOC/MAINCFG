@@ -49,15 +49,15 @@ Height = 20
 
 Unlockable 2
 Name = Emblem Hints
-Objective = Free Tortured Planet 2 times
+Objective = Free Tortured Planet
 Type = EmblemHints
-ConditionSet = 13
+ConditionSet = 1
 
 Unlockable 3
 Name = Emblem Radar
-Objective = Free Tortured Planet 3 times
+Objective = Free Tortured Planet
 Type = ItemFinder
-ConditionSet = 14
+ConditionSet = 1
 
 Unlockable 4
 Name = Tortured Records
@@ -117,30 +117,41 @@ Unlockable 11
 Name = Sound Test
 Objective = Defeat the first boss
 Type = SoundTest
-Height = 110
+Height = 120
 ConditionSet = 15
 
-Unlockable 11
+Unlockable 12
+Name = Play as Amy
+Objective = Defeat the first boss
+ConditionSet = 15
+Type = Skin
+Var = amy
+
+Unlockable 13
+Name = Play as Metal Sonic
+Objective = Defeat the first boss
+ConditionSet = 15
+Type = Skin
+Var = metalsonic
+
+Unlockable 14
+Name = Play as Fang
+Objective = Defeat the first boss
+ConditionSet = 15
+Type = Skin
+Var = fang
+
+Unlockable 15
 Name = NiGHTS mode
 Objective = Collect the first emerald
 Type = NightsMode
-Height = 120
 ConditionSet = 16
 
-Unlockable 12
-Type = None
-Name = Fang
-ConditionSet = -1
-
-Unlockable 13
-Type = None
-Name = Metal Sonic
-ConditionSet = -1
-
-Unlockable 14
-Type = None
-Name = Amy
-ConditionSet = -1
+Unlockable 16
+Name = Pandora's box
+Objective = Find all 140 emblems
+Type = Pandora
+ConditionSet = 17
 
 #Global Emblems
 
@@ -153,7 +164,7 @@ Color = SKINCOLOR_EMERALD
 
 ExtraEmblem 2
 Name = Ring Master
-Objective = 8000 Rings Total
+Objective = 5500 Rings Total
 ConditionSet = 10
 Sprite = R
 Color = SKINCOLOR_EMERALD
@@ -202,7 +213,7 @@ ConditionSet 9
 Condition1 = TotalEmblems 120
 
 ConditionSet 10
-Condition1 = OverallRings 8000
+Condition1 = OverallRings 5500
 
 ConditionSet 11
 Condition1 = OverallScore 1150000
@@ -219,8 +230,11 @@ Condition1 = GameClear 3
 ConditionSet 15
 Condition1 = MapBeaten 138
 
-ConditionSet 15
+ConditionSet 16
 Condition1 = MapBeaten 60
+
+ConditionSet 17
+Condition1 = TotalEmblems 140
 
 
 # -------------------------------------------- #
@@ -267,7 +281,7 @@ Type = Rings
 MapNum = 136
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 330
+Var = 250
 
 Emblem 6
 Type = Score
@@ -322,7 +336,7 @@ Type = Rings
 MapNum = 137
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 450
+Var = 330
 
 Emblem 13
 Type = Score
@@ -386,7 +400,7 @@ Type = Rings
 MapNum = 139
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 380
+Var = 280
 
 Emblem 21
 Type = Score
@@ -441,7 +455,7 @@ Type = Rings
 MapNum = 140
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 350
+Var = 280
 
 Emblem 28
 Type = Score
@@ -505,7 +519,7 @@ Type = Rings
 MapNum = 142
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 490
+Var = 300
 
 Emblem 36
 Type = Score
@@ -560,14 +574,14 @@ Type = Rings
 MapNum = 143
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 600
+Var = 320
 
 Emblem 43
 Type = Score
 MapNum = 143
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 75000
+Var = 65000
 
 Emblem 44
 Type = Time
@@ -624,14 +638,14 @@ Type = Rings
 MapNum = 145
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 650
+Var = 320
 
 Emblem 51
 Type = Score
 MapNum = 145
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 80000
+Var = 60000
 
 Emblem 52
 Type = Time
@@ -679,14 +693,14 @@ Type = Rings
 MapNum = 146
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 500
+Var = 300
 
 Emblem 58
 Type = Score
 MapNum = 146
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 67000
+Var = 50000
 
 Emblem 59
 Type = Time
@@ -743,14 +757,14 @@ Type = Rings
 MapNum = 148
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 550
+Var = 300
 
 Emblem 66
 Type = Score
 MapNum = 148
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 73000
+Var = 48000
 
 Emblem 67
 Type = Time
@@ -798,14 +812,14 @@ Type = Rings
 MapNum = 149
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 400
+Var = 300
 
 Emblem 73
 Type = Score
 MapNum = 149
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 56000
+Var = 48000
 
 Emblem 74
 Type = Time
@@ -862,7 +876,7 @@ Type = Rings
 MapNum = 151
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 360
+Var = 300
 
 Emblem 81
 Type = Score
@@ -917,7 +931,7 @@ Type = Rings
 MapNum = 152
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 360
+Var = 300
 
 Emblem 88
 Type = Score
@@ -981,14 +995,14 @@ Type = Rings
 MapNum = 154
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 450
+Var = 290
 
 Emblem 96
 Type = Score
 MapNum = 154
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 60000
+Var = 44000
 
 Emblem 97
 Type = Time
@@ -1036,14 +1050,14 @@ Type = Rings
 MapNum = 155
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 400
+Var = 290
 
 Emblem 103
 Type = Score
 MapNum = 155
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 64000
+Var = 44000
 
 Emblem 104
 Type = Time
@@ -1100,7 +1114,7 @@ Type = Rings
 MapNum = 157
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 700
+Var = 390
 
 Emblem 111
 Type = Score
@@ -1155,7 +1169,7 @@ Type = Rings
 MapNum = 158
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 650
+Var = 390
 
 Emblem 118
 Type = Score
@@ -1219,7 +1233,7 @@ Type = Rings
 MapNum = 160
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 580
+Var = 390
 
 Emblem 126
 Type = Score
@@ -1274,7 +1288,7 @@ Type = Rings
 MapNum = 161
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 480
+Var = 390
 
 Emblem 133
 Type = Score
