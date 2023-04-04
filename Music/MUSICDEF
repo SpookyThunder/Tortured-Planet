@@ -44,8 +44,15 @@ Soundtestpage = 1
 Soundtestcond = 0
 BPM = 121
 
-Lump SNZ
-Title = Snowcap_Nimbus
+Lump SNZ1
+Title = Snowcap_Nimbus_1
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump SNZ2
+Title = Snowcap_Nimbus_2
 Authors = Charybdizs
 Soundtestpage = 1
 Soundtestcond = 0
@@ -93,15 +100,29 @@ Soundtestpage = 1
 Soundtestcond = 0
 BPM = 121
 
-Lump SWZ
-Title = Spacewalk
+Lump SWZ1
+Title = Spacewalk_1
 Authors = Charybdizs
 Soundtestpage = 1
 Soundtestcond = 0
 BPM = 121
 
-Lump AAZ
-Title = Alien_Armageddon
+Lump SWZ2
+Title = Spacewalk_2
+Authors = Charybdizs, SuperPhanto
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump AAZ1
+Title = Alien_Armageddon_1
+Authors = Charybdizs
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 121
+
+Lump AAZ2
+Title = Alien_Armageddon_2
 Authors = Charybdizs
 Soundtestpage = 1
 Soundtestcond = 0
@@ -123,14 +144,14 @@ BPM = 121
 
 Lump TPBRAK
 Title = VS_Brak
-Authors = Super_Phanto
+Authors = Clairebun
 Soundtestpage = 1
 Soundtestcond = 0
 BPM = 121
 
 Lump _SHOES
 Title = Speed_shoes
-Authors = Super_Phanto
+Authors = Clairebun
 Soundtestpage = 1
 Soundtestcond = 0
 BPM = 121

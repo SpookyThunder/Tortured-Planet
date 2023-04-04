@@ -143,7 +143,7 @@ Level 145
 LevelName = Snowcap Nimbus
 Act = 1
 Keywords = SNZ1
-Music = SNZ
+Music = SNZ1
 TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 146
 BonusType = Normal
@@ -159,7 +159,7 @@ Level 146
 LevelName = Snowcap Nimbus
 Act = 2
 Keywords = SNZ2
-Music = SNZ
+Music = SNZ2
 TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 147
 BonusType = Normal
@@ -330,7 +330,7 @@ Level 157
 LevelName = Spacewalk
 Act = 1
 Keywords = SWZ1
-Music = SWZ
+Music = SWZ1
 TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 158
 BonusType = Normal
@@ -345,7 +345,7 @@ Level 158
 LevelName = Spacewalk
 Act = 2
 Keywords = SWZ2
-Music = SWZ
+Music = SWZ2
 TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 159
 BonusType = Normal
@@ -375,7 +375,7 @@ Level 160
 LevelName = Alien Armageddon
 Act = 1
 Keywords = AAZ1
-Music = AAZ
+Music = AAZ1
 TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 161
 BonusType = Normal
@@ -390,7 +390,7 @@ Level 161
 LevelName = Alien Armageddon
 Act = 2
 Keywords = AAZ2
-Music = AAZ
+Music = AAZ2
 TypeOfLevel = Singleplayer,Co-op,Competition,Race
 NextLevel = 162
 BonusType = Normal
