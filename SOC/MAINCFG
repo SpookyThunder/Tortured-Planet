@@ -49,15 +49,15 @@ Height = 20
 
 Unlockable 2
 Name = Emblem Hints
-Objective = Free Tortured Planet 2 times
+Objective = Free Tortured Planet
 Type = EmblemHints
-ConditionSet = 13
+ConditionSet = 1
 
 Unlockable 3
 Name = Emblem Radar
-Objective = Free Tortured Planet 3 times
+Objective = Free Tortured Planet
 Type = ItemFinder
-ConditionSet = 14
+ConditionSet = 1
 
 Unlockable 4
 Name = Tortured Records
@@ -117,13 +117,12 @@ Unlockable 11
 Name = Sound Test
 Objective = Defeat the first boss
 Type = SoundTest
-Height = 110
+Height = 120
 ConditionSet = 15
 
 Unlockable 12
 Name = Play as Amy
 Objective = Defeat the first boss
-Height = 0
 ConditionSet = 15
 Type = Skin
 Var = amy
@@ -131,7 +130,6 @@ Var = amy
 Unlockable 13
 Name = Play as Metal Sonic
 Objective = Defeat the first boss
-Height = 0
 ConditionSet = 15
 Type = Skin
 Var = metalsonic
@@ -139,7 +137,6 @@ Var = metalsonic
 Unlockable 14
 Name = Play as Fang
 Objective = Defeat the first boss
-Height = 0
 ConditionSet = 15
 Type = Skin
 Var = fang
@@ -148,14 +145,12 @@ Unlockable 15
 Name = NiGHTS mode
 Objective = Collect the first emerald
 Type = NightsMode
-Height = 120
 ConditionSet = 16
 
 Unlockable 16
 Name = Pandora's box
 Objective = Find all 140 emblems
 Type = Pandora
-Height = 130
 ConditionSet = 17
 
 #Global Emblems
@@ -1007,7 +1002,7 @@ Type = Score
 MapNum = 154
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 60000
+Var = 44000
 
 Emblem 97
 Type = Time
@@ -1062,7 +1057,7 @@ Type = Score
 MapNum = 155
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 64000
+Var = 44000
 
 Emblem 104
 Type = Time
