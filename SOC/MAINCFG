@@ -33,11 +33,53 @@ GameData = smfl_torturedplanet.dat
 
 Clear All
 
-
 # -------------------------------------------- #
 
+#Condition Sets
 
-#Here are the unlockables for Tortured Planet.
+ConditionSet 1
+Condition1 = GameClear
+
+ConditionSet 2
+Condition1 = TotalEmblems 5
+
+ConditionSet 3
+Condition1 = PlayTime 378000
+
+ConditionSet 4
+Condition1 = OverallTime 189000
+
+ConditionSet 5
+Condition1 = TotalEmblems 30
+
+ConditionSet 6
+Condition1 = TotalEmblems 60
+
+ConditionSet 7
+Condition1 = TotalEmblems 40
+
+ConditionSet 8
+Condition1 = TotalEmblems 80
+
+ConditionSet 9
+Condition1 = TotalEmblems 120
+
+ConditionSet 10
+Condition1 = OverallRings 5500
+
+ConditionSet 11
+Condition1 = OverallScore 1150000
+
+ConditionSet 12
+Condition1 = MapBeaten 138
+
+ConditionSet 13
+Condition1 = MapBeaten 60
+
+ConditionSet 14
+Condition1 = TotalEmblems 140
+
+#Here are the unlockables
 
 Unlockable 1
 Name = Level Select
@@ -118,40 +160,19 @@ Name = Sound Test
 Objective = Defeat the first boss
 Type = SoundTest
 Height = 120
-ConditionSet = 15
+ConditionSet = 12
 
 Unlockable 12
-Name = Play as Amy
-Objective = Defeat the first boss
-ConditionSet = 15
-Type = Skin
-Var = amy
-
-Unlockable 13
-Name = Play as Metal Sonic
-Objective = Defeat the first boss
-ConditionSet = 15
-Type = Skin
-Var = metalsonic
-
-Unlockable 14
-Name = Play as Fang
-Objective = Defeat the first boss
-ConditionSet = 15
-Type = Skin
-Var = fang
-
-Unlockable 15
 Name = NiGHTS mode
 Objective = Collect the first emerald
 Type = NightsMode
-ConditionSet = 16
+ConditionSet = 13
 
-Unlockable 16
+Unlockable 13
 Name = Pandora's box
 Objective = Find all 140 emblems
 Type = Pandora
-ConditionSet = 17
+ConditionSet = 14
 
 #Global Emblems
 
@@ -179,66 +200,11 @@ Color = SKINCOLOR_EMERALD
 ExtraEmblem 4
 Name = Time Master
 Objective = 90 Min Time Attack
-ConditionSet = 12
+ConditionSet = 4
 Sprite = T
 Color = SKINCOLOR_EMERALD
 
-#Condition Sets
-
-ConditionSet 1
-Condition1 = GameClear
-
-ConditionSet 2
-Condition1 = TotalEmblems 5
-
-ConditionSet 3
-Condition1 = PlayTime 378000
-
-ConditionSet 4
-Condition1 = OverallTime 189000
-
-ConditionSet 5
-Condition1 = TotalEmblems 30
-
-ConditionSet 6
-Condition1 = TotalEmblems 60
-
-ConditionSet 7
-Condition1 = TotalEmblems 40
-
-ConditionSet 8
-Condition1 = TotalEmblems 80
-
-ConditionSet 9
-Condition1 = TotalEmblems 120
-
-ConditionSet 10
-Condition1 = OverallRings 5500
-
-ConditionSet 11
-Condition1 = OverallScore 1150000
-
-ConditionSet 12
-Condition1 = OverallTime 189000
-
-ConditionSet 13
-Condition1 = GameClear 2
-
-ConditionSet 14
-Condition1 = GameClear 3
-
-ConditionSet 15
-Condition1 = MapBeaten 138
-
-ConditionSet 16
-Condition1 = MapBeaten 60
-
-ConditionSet 17
-Condition1 = TotalEmblems 140
-
-
 # -------------------------------------------- #
-
 
 #Yep, these are the emblem locations. Feast your eyes, cheater.
 
