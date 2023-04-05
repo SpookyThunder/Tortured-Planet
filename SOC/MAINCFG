@@ -1114,14 +1114,14 @@ Type = Rings
 MapNum = 157
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 390
+Var = 400
 
 Emblem 111
 Type = Score
 MapNum = 157
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 83000
+Var = 62000
 
 Emblem 112
 Type = Time
@@ -1169,14 +1169,14 @@ Type = Rings
 MapNum = 158
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 390
+Var = 400
 
 Emblem 118
 Type = Score
 MapNum = 158
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 87000
+Var = 65000
 
 Emblem 119
 Type = Time
