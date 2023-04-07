@@ -44,10 +44,10 @@ ConditionSet 2
 Condition1 = TotalEmblems 5
 
 ConditionSet 3
-Condition1 = PlayTime 378000
+Condition1 = AllEmeralds 1
 
 ConditionSet 4
-Condition1 = OverallTime 189000
+Condition1 = TotalEmblems 10
 
 ConditionSet 5
 Condition1 = TotalEmblems 30
@@ -68,16 +68,19 @@ ConditionSet 10
 Condition1 = OverallRings 5500
 
 ConditionSet 11
-Condition1 = OverallScore 1150000
+Condition1 = OverallScore 1000000
 
 ConditionSet 12
 Condition1 = MapBeaten 138
 
 ConditionSet 13
-Condition1 = MapBeaten 60
+Condition1 = MapBeaten 50
 
 ConditionSet 14
 Condition1 = TotalEmblems 140
+
+ConditionSet 15
+Condition1 = TotalEmblems 139
 
 #Here are the unlockables
 
@@ -109,7 +112,7 @@ ConditionSet = 2
 
 Unlockable 5
 Name = Deja Vu 1
-Objective = 90 Min Time Attack
+Objective = Find 10 Emblems
 Type = Warp
 Var = 174
 ConditionSet = 4
@@ -177,32 +180,32 @@ ConditionSet = 14
 #Global Emblems
 
 ExtraEmblem 1
-Name = Three Hour Torture
-Objective = Log 3 hours of play
+Name = The Planet's Savior
+Objective = Clear the game with all 7 emeralds
 ConditionSet = 3
-Sprite = O
-Color = SKINCOLOR_EMERALD
+Sprite = H
+Color = SKINCOLOR_SLATE
 
 ExtraEmblem 2
-Name = Ring Master
-Objective = 5500 Rings Total
+Name = Ring Magnate
+Objective = Grab 5500 rings in record attack
 ConditionSet = 10
 Sprite = R
-Color = SKINCOLOR_EMERALD
+Color = SKINCOLOR_SLATE
 
 ExtraEmblem 3
-Name = Score Master
-Objective = 1150000 Score Total
+Name = Score Millionaire
+Objective = Have 1000000 points in record attack
 ConditionSet = 11
 Sprite = S
-Color = SKINCOLOR_EMERALD
+Color = SKINCOLOR_SLATE
 
 ExtraEmblem 4
-Name = Time Master
-Objective = 90 Min Time Attack
-ConditionSet = 4
-Sprite = T
-Color = SKINCOLOR_EMERALD
+Name = Emblem Nut
+Objective = Get every other emblem in the game
+ConditionSet = 15
+Sprite = P
+Color = SKINCOLOR_SLATE
 
 # -------------------------------------------- #
 
@@ -1199,14 +1202,14 @@ Type = Rings
 MapNum = 160
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 390
+Var = 400
 
 Emblem 126
 Type = Score
 MapNum = 160
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 84000
+Var = 65000
 
 Emblem 127
 Type = Time
@@ -1254,14 +1257,14 @@ Type = Rings
 MapNum = 161
 Sprite = R
 Color = SKINCOLOR_GOLD
-Var = 390
+Var = 400
 
 Emblem 133
 Type = Score
 MapNum = 161
 Sprite = S
 Color = SKINCOLOR_GOLD
-Var = 87000
+Var = 66000
 
 Emblem 134
 Type = Time
