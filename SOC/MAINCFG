@@ -80,7 +80,7 @@ ConditionSet 14
 Condition1 = TotalEmblems 140
 
 ConditionSet 15
-Condition1 = TotalEmblems 139
+Condition1 = MapBeaten 174
 
 #Here are the unlockables
 
@@ -201,10 +201,10 @@ Sprite = S
 Color = SKINCOLOR_SLATE
 
 ExtraEmblem 4
-Name = Emblem Nut
-Objective = Get every other emblem in the game
+Name = Firefly
+Objective = Beat Fire Flight zone
 ConditionSet = 15
-Sprite = P
+Sprite = L
 Color = SKINCOLOR_SLATE
 
 # -------------------------------------------- #
