@@ -7,13 +7,14 @@ local GATORRANGE = 700		-- How far the gator will look for players
 local GATORAGGRO = 300		-- Range at which the gator starts preparing their dash
 local GATORCHARG = 3		-- How many times the gator can charge before getting tired
 local GATORRECHA = 18		-- Down time between each dash
-local GATORTIRED = 105		-- How many tics before the gator can spot a player again
+local GATORTIRED = 90		-- How many tics before the gator can spot a player again
+local GATORSPEED = 65		-- How fast the gator's charges are
 
 // SOC stuff
 freeslot("MT_S2GATOR",
 		 "S_GATOR_IDLE", "S_GATOR_IDLE2", "S_GATOR_LEER", "S_GATOR_PREPCHARGE",
-		 "S_GATOR_CHARGE", "S_GATOR_RECHARGE", "S_GATOR_TIRED",
-		 "SPR_GATO")
+		 "S_GATOR_CHARGE", "S_GATOR_RECHARGE", "S_GATOR_TIRED", "S_GATOR_FCHARGE",
+		 "SPR_GATO", "SPR_GATB")
 
 mobjinfo[MT_S2GATOR] = {
 	doomednum = 4014,
@@ -52,30 +53,42 @@ states[S_GATOR_LEER] = {
 
 // Winding up
 states[S_GATOR_PREPCHARGE] = {
-	sprite = SPR_GATO,
+	sprite = SPR_GATB,
 	frame = FF_ANIMATE|A,
-	var1 = 5,
-    var2 = 1,
+	var1 = 3,
+    var2 = 3,
 	tics = 45,
 	nextstate = S_GATOR_CHARGE,
 }
 
 // Charge dash
 states[S_GATOR_CHARGE] = {
-	sprite = SPR_GATO,
-	frame = A,
+	sprite = SPR_GATB,
+	frame = FF_ANIMATE|A,
+	var1 = 3,
+    var2 = 1,
 	tics = 1,
 	nextstate = S_GATOR_RECHARGE,
 }
 
 // Actual state maintained throughout the dash
 states[S_GATOR_RECHARGE] = {
-	sprite = SPR_GATO,
+	sprite = SPR_GATB,
 	frame = FF_ANIMATE|A,
-	var1 = 5,
+	var1 = 3,
     var2 = 1,
 	tics = GATORRECHA,
 	nextstate = S_GATOR_CHARGE
+}
+
+// Final dash
+states[S_GATOR_FCHARGE] = {
+	sprite = SPR_GATB,
+	frame = FF_ANIMATE|A,
+	var1 = 3,
+    var2 = 1,
+	tics = 15,
+	nextstate = S_GATOR_TIRED
 }
 
 // Recovering from dash
@@ -154,10 +167,20 @@ addHook("MobjThinker", function(mo)
 		mo.charges = $-1
 		local lookAt = R_PointToAngle2(mo.x, mo.y, mo.target.x, mo.target.y)
 		mo.angle = lookAt
-		P_InstaThrust(mo, lookAt, 50*FRACUNIT)
+		P_InstaThrust(mo, lookAt, GATORSPEED * FRACUNIT)
 		S_StartSound(mo, sfx_cdfm35)
 
-		if not mo.charges then mo.state = S_GATOR_TIRED end
+		if not mo.charges then mo.state = S_GATOR_FCHARGE end
+	end
+
+	if mo.state == S_GATOR_FCHARGE and not (leveltime%2)
+		if not mo.target or not mo.target.valid then GatorReset(mo) return end
+		local dust = P_SpawnMobjFromMobj(mo, 0, 0, 0, MT_SPINDUST)
+		P_InstaThrust(dust, 
+					  mo.angle + P_RandomRange(165, 195) * ANG1,
+					  P_RandomRange(30, 45) * FRACUNIT)
+		P_SetObjectMomZ(dust, P_RandomRange(1, 4) * FRACUNIT)
+		S_StartSound(mo, sfx_s3k47)
 	end
 
 	// Visual effects for charging
@@ -172,7 +195,7 @@ addHook("TouchSpecial", function(mo, pmo)
 	if not pmo.player or not pmo.player.valid return end
 
 	// Damage players on the same level as the gator, unless they are super or invulnerable
-	if (pmo.z - mo.z)/FRACUNIT > 26 or (pmo.z - mo.z)/FRACUNIT < 0 return
+	if abs(pmo.z - mo.z)/FRACUNIT > 31 or abs(pmo.z - mo.z)/FRACUNIT < 0 return
 	else
 		if pmo.player.powers[pw_super] or pmo.player.powers[pw_invulnerability] or pmo.player.powers[pw_flashing] return end
 		P_DamageMobj(pmo, mo, mo)
