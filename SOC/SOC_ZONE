@@ -693,7 +693,7 @@ Music = SNZARC
 TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Normal
-SkyNum = 1
+SkyNum = 23
 Weather = 2
 Hidden = true
 
@@ -704,7 +704,7 @@ Music = MP_ICE
 TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Normal
-SkyNum = 1
+SkyNum = 23
 Weather = 2
 Hidden = true
 
@@ -715,7 +715,7 @@ Music = VSALT
 TypeOfLevel = Singleplayer,Co-op
 NextLevel = 178
 BonusType = Boss
-SkyNum = 1
+SkyNum = 23
 Weather = 2
 Hidden = true
 
