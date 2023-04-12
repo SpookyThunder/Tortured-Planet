@@ -22,7 +22,7 @@
 
 MainCfg
 SpStage_Start = 136
-TitleMap = 0
+TitleMap = 99
 TitleScrollSpeed = 3
 IntroToPlay = 1
 NumDemos = 0
