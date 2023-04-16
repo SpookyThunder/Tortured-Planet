@@ -1,15 +1,25 @@
 
 #Here we go...the Blecch Bouncer SOC!
+#Also contains other object now, oh my!
 
 Freeslot
 MT_BBOUNCER
+MT_OLDCACT1
+MT_OLDCACT2
+MT_OLDCACT3
+MT_OLDCACT4
 S_BB_WAIT
 S_BB_HOP
 S_BB_SLIME
 S_BB_LAND
 S_BB_PAIN
+S_OCAC1
+S_OCAC2
+S_OCAC3
+S_OCAC4
 SPR_BLEC
 SFX_FRE001
+SPR_OCAC
 
 Object MT_BBOUNCER
 MapThingNum = 4013
@@ -71,3 +81,63 @@ Next = S_BB_WAIT
 
 State S_GOOP3
 Duration = 500
+
+# ----------- old cacti ----------- 
+
+Object MT_OLDCACT1
+MapThingNum = 4015
+SpawnState = S_OCAC1
+Flags = MF_NOTHINK
+#$Name Old Tiny Red Flower Cactus
+#$Sprite OCACA0
+
+State S_OCAC1
+SpriteName = OCAC
+SpriteFrame = A
+Duration = -1
+Next = S_OCAC1
+
+
+
+Object MT_OLDCACT2
+MapThingNum = 4016
+SpawnState = S_OCAC2
+Flags = MF_NOTHINK
+#$Name Old Small Red Flower Cactus
+#$Sprite OCACB0
+
+State S_OCAC2
+SpriteName = OCAC
+SpriteFrame = B
+Duration = -1
+Next = S_OCAC1
+
+
+
+Object MT_OLDCACT3
+MapThingNum = 4017
+SpawnState = S_OCAC3
+Flags = MF_NOTHINK
+#$Name Old Tiny Blue Flower Cactus
+#$Sprite OCACC0
+
+State S_OCAC3
+SpriteName = OCAC
+SpriteFrame = C
+Duration = -1
+Next = S_OCAC1
+
+
+
+Object MT_OLDCACT4
+MapThingNum = 4018
+SpawnState = S_OCAC4
+Flags = MF_NOTHINK
+#$Name Old Small Blue Flower Cactus
+#$Sprite OCACD0
+
+State S_OCAC4
+SpriteName = OCAC
+SpriteFrame = D
+Duration = -1
+Next = S_OCAC1
