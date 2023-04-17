@@ -19,6 +19,10 @@
 # Blecch Bouncer, and Torgo, for
 # fixing the LGZMESH1 flat.
 #
+# 2.2 port by Jon, GomaTheMascar,
+# SuperPhanto and Inazuma
+#
+
 
 MainCfg
 SpStage_Start = 136
@@ -29,7 +33,7 @@ NumDemos = 0
 TitlePicsMode = Old
 UseBlackRock = false
 CustomVersion = v11
-GameData = smfl_torturedplanet.dat
+GameData = srmfl_torturedplanet.dat
 
 Clear All
 
@@ -56,13 +60,13 @@ ConditionSet 6
 Condition1 = TotalEmblems 60
 
 ConditionSet 7
-Condition1 = TotalEmblems 40
+Condition1 = TotalEmblems 30
 
 ConditionSet 8
-Condition1 = TotalEmblems 80
+Condition1 = TotalEmblems 60
 
 ConditionSet 9
-Condition1 = TotalEmblems 120
+Condition1 = TotalEmblems 90
 
 ConditionSet 10
 Condition1 = OverallRings 5500
@@ -111,7 +115,7 @@ Type = RecordAttack
 ConditionSet = 2
 
 Unlockable 5
-Name = Deja Vu 1
+Name = Fire Flight Zone
 Objective = Find 10 Emblems
 Type = Warp
 Var = 174
@@ -119,59 +123,43 @@ ConditionSet = 4
 Height = 40
 
 Unlockable 6
-Name = Deja Vu 2
-Objective = Find 30 Emblems
-Type = Warp
-Var = 175
-ConditionSet = 5
-Height = 50
-
-Unlockable 7
-Name = Deja Vu 3
-Objective = Find 60 Emblems
-Type = Warp
-Var = 176
-ConditionSet = 6
-Height = 60
-
-Unlockable 8
 Name = Tortured Archives 1
-Objective = Find 40 Emblems
+Objective = Find 30 Emblems
 Type = Warp
 Var = 177
 ConditionSet = 7
-Height = 80
+Height = 60
 
-Unlockable 9
+Unlockable 7
 Name = Tortured Archives 2
-Objective = Find 80 Emblems
+Objective = Find 60 Emblems
 Type = Warp
 Var = 178
 ConditionSet = 8
-Height = 90
+Height = 70
 
-Unlockable 10
+Unlockable 8
 Name = Tortured Archives 3
-Objective = Find 120 Emblems
+Objective = Find 90 Emblems
 Type = Warp
 Var = 179
 ConditionSet = 9
-Height = 100
+Height = 80
 
-Unlockable 11
+Unlockable 9
 Name = Sound Test
 Objective = Defeat the first boss
 Type = SoundTest
-Height = 120
+Height = 100
 ConditionSet = 12
 
-Unlockable 12
+Unlockable 10
 Name = NiGHTS mode
 Objective = Collect the first emerald
 Type = NightsMode
 ConditionSet = 13
 
-Unlockable 13
+Unlockable 11
 Name = Pandora's box
 Objective = Find all 140 emblems
 Type = Pandora

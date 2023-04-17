@@ -548,7 +548,7 @@ TypeOfLevel = CTF
 NextLevel = 80
 SkyNum = 8
 Weather = 1
-Hidden = true
+LevelSelect = 2
 
 Level 176
 LevelName = Wacky Tesseract
@@ -557,7 +557,7 @@ Music = WTZ
 TypeOfLevel = Race
 NextLevel = 70
 SkyNum = 52
-Hidden = true
+LevelSelect = 3
 
 Level 177
 LevelName = Archive Hub
