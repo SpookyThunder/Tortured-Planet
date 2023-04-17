@@ -537,6 +537,7 @@ TypeOfLevel = Singleplayer,NiGHTS
 Grades1 = 40000,60000,750000,90000,115000,140000
 SkyNum = 8
 Hidden = true
+HideInStats = true
 # TODO - credit Robert Baffy for the music
 
 Level 175
@@ -569,6 +570,7 @@ BonusType = None
 SkyNum = 10
 Weather = 1
 Hidden = true
+HideInStats = true
 PreCutsceneNum = 12
 
 Level 178
@@ -580,6 +582,7 @@ NextLevel = 1100
 BonusType = None
 SkyNum = 13
 Hidden = true
+HideInStats = true
 PreCutsceneNum = 12
 
 Level 179
@@ -591,6 +594,7 @@ NextLevel = 1100
 BonusType = None
 SkyNum = 22
 Hidden = true
+HideInStats = true
 PreCutsceneNum = 12
 
 Level 180
@@ -602,6 +606,7 @@ NextLevel = 177
 BonusType = Normal
 SkyNum = 2
 Hidden = true
+HideInStats = true
 
 Level 181
 LevelName = Sunshine Atoll
@@ -612,6 +617,7 @@ NextLevel = 177
 BonusType = Normal
 SkyNum = 2
 Hidden = true
+HideInStats = true
 
 Level 182
 LevelName = Sunshine Atoll
@@ -622,6 +628,7 @@ NextLevel = 177
 BonusType = Boss
 SkyNum = 2
 Hidden = true
+HideInStats = true
 
 Level 183
 LevelName = Eruption Conduit
@@ -632,6 +639,7 @@ NextLevel = 177
 BonusType = Normal
 SkyNum = 3
 Hidden = true
+HideInStats = true
 
 Level 184
 LevelName = Eruption Conduit
@@ -642,6 +650,7 @@ NextLevel = 177
 BonusType = Normal
 SkyNum = 3
 Hidden = true
+HideInStats = true
 
 Level 185
 LevelName = Eruption Conduit
@@ -652,6 +661,7 @@ NextLevel = 177
 BonusType = Boss
 SkyNum = 3
 Hidden = true
+HideInStats = true
 
 Level 186
 LevelName = Drowned Downtown
@@ -663,6 +673,7 @@ BonusType = Normal
 SkyNum = 5
 Weather = 1
 Hidden = true
+HideInStats = true
 
 Level 187
 LevelName = Drowned Downtown
@@ -674,6 +685,7 @@ BonusType = Normal
 SkyNum = 5
 Weather = 1
 Hidden = true
+HideInStats = true
 
 Level 188
 LevelName = Drowned Downtown
@@ -685,6 +697,7 @@ BonusType = Normal
 SkyNum = 5
 Weather = 1
 Hidden = true
+HideInStats = true
 
 Level 189
 LevelName = Snowcap Nimbus
@@ -696,6 +709,7 @@ BonusType = Normal
 SkyNum = 23
 Weather = 2
 Hidden = true
+HideInStats = true
 
 Level 190
 LevelName = Snowcap Nimbus
@@ -707,6 +721,7 @@ BonusType = Normal
 SkyNum = 23
 Weather = 2
 Hidden = true
+HideInStats = true
 
 Level 191
 LevelName = Snowcap Nimbus
@@ -718,6 +733,7 @@ BonusType = Boss
 SkyNum = 23
 Weather = 2
 Hidden = true
+HideInStats = true
 
 Level 192
 LevelName = Gritty Columns
@@ -728,6 +744,7 @@ NextLevel = 178
 BonusType = Normal
 SkyNum = 13
 Hidden = true
+HideInStats = true
 
 Level 193
 LevelName = Gritty Columns
@@ -738,6 +755,7 @@ NextLevel = 178
 BonusType = Normal
 SkyNum = 13
 Hidden = true
+HideInStats = true
 
 Level 194
 LevelName = Gritty Columns
@@ -748,6 +766,7 @@ NextLevel = 178
 BonusType = Boss
 SkyNum = 13
 Hidden = true
+HideInStats = true
 
 Level 195
 LevelName = Fume Shaft
@@ -758,6 +777,7 @@ NextLevel = 178
 BonusType = Normal
 SkyNum = 7
 Hidden = true
+HideInStats = true
 
 Level 196
 LevelName = Fume Shaft
@@ -768,6 +788,7 @@ NextLevel = 178
 BonusType = Normal
 SkyNum = 7
 Hidden = true
+HideInStats = true
 
 Level 197
 LevelName = Fume Shaft
@@ -778,6 +799,7 @@ NextLevel = 178
 BonusType = Boss
 SkyNum = 7
 Hidden = true
+HideInStats = true
 
 Level 198
 LevelName = Liftoff Gantry
@@ -788,6 +810,7 @@ NextLevel = 179
 BonusType = Normal
 SkyNum = 9
 Hidden = true
+HideInStats = true
 
 Level 199
 LevelName = Liftoff Gantry
@@ -798,6 +821,7 @@ NextLevel = 179
 BonusType = Normal
 SkyNum = 9
 Hidden = true
+HideInStats = true
 
 Level 200
 LevelName = Liftoff Gantry
@@ -808,6 +832,7 @@ NextLevel = 179
 BonusType = Boss
 SkyNum = 9
 Hidden = true
+HideInStats = true
 
 Level 201
 LevelName = Spacewalk
@@ -818,6 +843,7 @@ NextLevel = 179
 BonusType = Normal
 SkyNum = 22
 Hidden = true
+HideInStats = true
 
 Level 202
 LevelName = Spacewalk
@@ -828,6 +854,7 @@ NextLevel = 179
 BonusType = Normal
 SkyNum = 22
 Hidden = true
+HideInStats = true
 
 Level 203
 LevelName = Spacewalk
@@ -838,6 +865,7 @@ NextLevel = 179
 BonusType = Boss
 SkyNum = 22
 Hidden = true
+HideInStats = true
 
 Level 204
 LevelName = Alien Armageddon
@@ -848,6 +876,7 @@ NextLevel = 179
 BonusType = Normal
 SkyNum = 54
 Hidden = true
+HideInStats = true
 
 Level 205
 LevelName = Alien Armageddon
@@ -858,6 +887,7 @@ NextLevel = 179
 BonusType = Normal
 SkyNum = 54
 Hidden = true
+HideInStats = true
 
 Level 206
 LevelName = Alien Armageddon
@@ -868,6 +898,7 @@ NextLevel = 179
 BonusType = Boss
 SkyNum = 54
 Hidden = true
+HideInStats = true
 
 Level 207
 LevelName = Star Showdown
@@ -878,6 +909,7 @@ NextLevel = 179
 BonusType = ERZ3
 SkyNum = 21
 Hidden = true
+HideInStats = true
 
 Level 208
 LevelName = Rocket Rampage
@@ -900,6 +932,7 @@ NiGHTSAttack = true
 SelectHeading = Special Stages
 SkyNum = 1
 Grades1 = 0,20000,30000,90000,180000,260000
+HideInStats = true
 
 Level 51
 LevelName = Toxic Plateau
@@ -910,6 +943,7 @@ NiGHTSAttack = true
 SelectHeading = Special Stages
 SkyNum = 12
 Grades1 = 0,35000,50000,100000,190000,300000
+HideInStats = true
 
 Level 52
 LevelName = Flooded Cove
@@ -920,6 +954,7 @@ NiGHTSAttack = true
 SelectHeading = Special Stages
 SkyNum = 8
 Grades1 = 0,70000,90000,180000,270000,360000
+HideInStats = true
 
 Level 53
 LevelName = Cavern Fortress
@@ -931,6 +966,7 @@ SelectHeading = Special Stages
 Weather = 1
 SkyNum = 10
 Grades1 = 0,40000,60000,140000,240000,300000
+HideInStats = true
 
 Level 54
 LevelName = Dusty Wasteland
@@ -941,6 +977,7 @@ NiGHTSAttack = true
 SelectHeading = Special Stages
 SkyNum = 15
 Grades1 = 0,35000,50000,80000,120000,150000
+HideInStats = true
 
 Level 55
 LevelName = Magma Caves
@@ -951,6 +988,7 @@ NiGHTSAttack = true
 SelectHeading = Special Stages
 SkyNum = 20
 Grades1 = 0,30000,45000,60000,90000,110000
+HideInStats = true
 
 Level 56
 LevelName = Egg Satellite
@@ -961,6 +999,7 @@ NiGHTSAttack = true
 SelectHeading = Special Stages
 SkyNum = 22
 Grades1 = 0,60000,70000,80000,90000,140000
+HideInStats = true
 
 Level 57
 LevelName = no hyper for you
@@ -968,6 +1007,7 @@ Subtitle = lmao get bugged scrub
 NoZone = true
 Music = FFZ
 TypeOfLevel = Singleplayer
+HideInStats = true
 
 # Multiplayer special stages
 
