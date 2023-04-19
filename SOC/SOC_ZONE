@@ -466,7 +466,7 @@ Weather = 1
 Level 167
 LevelName = Slippery Skirmish
 Act = 0
-Music = SNZ
+Music = SNZ1
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
 NextLevel = 168
@@ -504,7 +504,7 @@ Weather = 0
 Level 171
 LevelName = Weightless Whaling
 Act = 0
-Music = SWZ
+Music = SWZ1
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
 NextLevel = 172
@@ -522,7 +522,7 @@ SkyNum = 54
 Level 173
 LevelName = What The Heck
 Act = 0
-Music = 0
+Music = SWZ2
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
 NextLevel = 164
@@ -546,7 +546,7 @@ SubTitle = Jump into the computers!
 Act = 0
 Music = ERZ2
 TypeOfLevel = CTF
-NextLevel = 80
+NextLevel = 175
 SkyNum = 8
 Weather = 1
 LevelSelect = 2
@@ -556,7 +556,7 @@ LevelName = Wacky Tesseract
 Act = 0
 Music = WTZ
 TypeOfLevel = Race
-NextLevel = 70
+NextLevel = 136
 SkyNum = 52
 LevelSelect = 3
 
