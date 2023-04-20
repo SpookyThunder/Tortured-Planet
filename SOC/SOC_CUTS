@@ -139,7 +139,7 @@ NumScenes 1
 Scene 1
 NumberOfPics = 1
 Pic1Name = DDPIC
-Pic1Duration = 1280
+Pic1Duration = 1500
 Pic1XCoord = 32
 Pic1YCoord = 4
 TextXPos = 4

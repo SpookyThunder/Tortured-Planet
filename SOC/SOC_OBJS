@@ -45,6 +45,7 @@ State S_BB_WAIT
 SpriteName = BLEC
 SpriteFrame = A
 Action = A_Look
+Var1 = 300 << 16
 Duration = 1
 Next = S_BB_WAIT
 
