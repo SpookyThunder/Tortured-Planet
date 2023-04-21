@@ -32,7 +32,7 @@ IntroToPlay = 1
 NumDemos = 0
 TitlePicsMode = Old
 UseBlackRock = false
-CustomVersion = v11
+CustomVersion = v11.3
 GameData = srmfl_torturedplanet.dat
 
 Clear All
