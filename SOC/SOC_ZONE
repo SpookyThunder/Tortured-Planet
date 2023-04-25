@@ -44,6 +44,7 @@ RecordAttack = true
 StartRings = 10
 ForceResetMusic = On
 WarningTitle = true
+SaveGame = true
 FlickyList = Bluebird,Chipmunk,Seal
 
 Level 139
@@ -89,6 +90,7 @@ RecordAttack = true
 StartRings = 10
 ForceResetMusic = On
 WarningTitle = true
+SaveGame = true
 FlickyList = Cat,Bat,Pig
 
 Level 142
@@ -137,6 +139,7 @@ RecordAttack = true
 StartRings = 10
 ForceResetMusic = On
 WarningTitle = true
+SaveGame = true
 FlickyList = Rat,Fish,Fish,Fish
 
 Level 145
@@ -185,6 +188,7 @@ RecordAttack = true
 StartRings = 10
 ForceResetMusic = On
 WarningTitle = true
+SaveGame = true
 FlickyList = Ram,Penguin
 
 Level 148
@@ -230,6 +234,7 @@ RecordAttack = true
 StartRings = 10
 ForceResetMusic = On
 WarningTitle = true
+SaveGame = true
 FlickyList = Spider,Cow
 
 Level 151
@@ -279,6 +284,7 @@ RecordAttack = true
 StartRings = 10
 ForceResetMusic = On
 WarningTitle = true
+SaveGame = true
 FlickyList = Canary,Puffin
 
 Level 154
@@ -324,6 +330,7 @@ RecordAttack = true
 StartRings = 10
 ForceResetMusic = On
 WarningTitle = true
+SaveGame = true
 FlickyList = Dove,Bear
 
 Level 157
@@ -369,6 +376,7 @@ RecordAttack = true
 StartRings = 10
 ForceResetMusic = On
 WarningTitle = true
+SaveGame = true
 FlickyList = MT_SEED
 
 Level 160
@@ -414,6 +422,7 @@ RecordAttack = true
 StartRings = 10
 ForceResetMusic = On
 WarningTitle = true
+SaveGame = true
 FlickyList = MT_SEED
 
 Level 163
@@ -433,11 +442,11 @@ StartRings = 10
 ForceResetMusic = On
 WarningTitle = true
 BonusType = Boss
+SaveGame = true
 FlickyList = MT_SEED
 
 Level 164
 LevelName = Coast Clash
-Act = 0
 Music = SAZ1
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
@@ -446,7 +455,6 @@ SkyNum = 2
 
 Level 165
 LevelName = Molten Massacre
-Act = 0
 Music = ECZ2
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
@@ -455,7 +463,6 @@ SkyNum = 3
 
 Level 166
 LevelName = Flooded Fray
-Act = 0
 Music = DDZ2
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
@@ -465,7 +472,6 @@ Weather = 1
 
 Level 167
 LevelName = Slippery Skirmish
-Act = 0
 Music = SNZ1
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
@@ -475,7 +481,6 @@ Weather = 2
 
 Level 168
 LevelName = Baked Brawl
-Act = 0
 Music = GCZ2
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
@@ -484,7 +489,6 @@ SkyNum = 13
 
 Level 169
 LevelName = Toxic Turmoil
-Act = 0
 Music = FSZ2
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
@@ -493,7 +497,6 @@ SkyNum = 7
 
 Level 170
 LevelName = Rocket Rampage
-Act = 0
 Music = LGZ2
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
@@ -503,7 +506,6 @@ Weather = 0
 
 Level 171
 LevelName = Weightless Whaling
-Act = 0
 Music = SWZ1
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
@@ -512,7 +514,6 @@ SkyNum = 22
 
 Level 172
 LevelName = Apocalypse Abuse
-Act = 0
 Music = _INTRO
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
@@ -521,7 +522,6 @@ SkyNum = 54
 
 Level 173
 LevelName = What The Heck
-Act = 0
 Music = SWZ2
 TypeOfLevel = Match,Tag
 SelectHeading = Tortured Planet
@@ -543,22 +543,18 @@ HideInStats = true
 Level 175
 LevelName = Upload Download
 SubTitle = Jump into the computers!
-Act = 0
 Music = ERZ2
 TypeOfLevel = CTF
 NextLevel = 175
 SkyNum = 8
 Weather = 1
-LevelSelect = 2
 
 Level 176
 LevelName = Wacky Tesseract
-Act = 0
 Music = WTZ
 TypeOfLevel = Race
 NextLevel = 136
 SkyNum = 52
-LevelSelect = 3
 
 Level 177
 LevelName = Archive Hub
