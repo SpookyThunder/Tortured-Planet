@@ -347,6 +347,7 @@ RecordAttack = true
 PreCutsceneNum = 9
 SaveGame = true
 FlickyList = MT_SEED
+Gravity = 0.175
 
 Level 158
 LevelName = Spacewalk
@@ -361,6 +362,7 @@ LevelSelect = 1
 RecordAttack = true
 SaveGame = true
 FlickyList = MT_SEED
+Gravity = 0.175
 
 Level 159
 LevelName = Spacewalk
@@ -444,6 +446,7 @@ WarningTitle = true
 BonusType = Boss
 SaveGame = true
 FlickyList = MT_SEED
+Gravity = 0.125
 
 Level 164
 LevelName = Coast Clash
@@ -840,6 +843,7 @@ BonusType = Normal
 SkyNum = 22
 Hidden = true
 HideInStats = true
+Gravity = 0.175
 
 Level 202
 LevelName = Spacewalk
@@ -851,6 +855,7 @@ BonusType = Normal
 SkyNum = 22
 Hidden = true
 HideInStats = true
+Gravity = 0.175
 
 Level 203
 LevelName = Spacewalk
@@ -906,6 +911,7 @@ BonusType = ERZ3
 SkyNum = 21
 Hidden = true
 HideInStats = true
+Gravity = 0.125
 
 Level 208
 LevelName = Rocket Rampage
